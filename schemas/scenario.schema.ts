@@ -5,6 +5,14 @@ export const scenarioSchema = z.strictObject({
         .string()
         .optional()
         .describe("Code of the campaign containing the scenario."),
+    campaign_guide_location: z
+        .number()
+        .int()
+        .positive()
+        .optional()
+        .describe(
+            "One-based PDF page where the scenario section begins in the campaign guide.",
+        ),
     code: z.string().describe("Unique code identifying the scenario."),
     cycle_code: z
         .string()

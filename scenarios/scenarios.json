@@ -1,6 +1,7 @@
 [
     {
         "campaign_code": "core",
+        "campaign_guide_location": 1,
         "code": "the_gathering",
         "encounter_sets": [
             {
@@ -26,6 +27,7 @@
     },
     {
         "campaign_code": "core",
+        "campaign_guide_location": 4,
         "code": "the_midnight_masks",
         "encounter_sets": [
             {
@@ -55,6 +57,7 @@
     },
     {
         "campaign_code": "core",
+        "campaign_guide_location": 6,
         "code": "the_devourer_below",
         "encounter_sets": [
             {
@@ -96,6 +99,7 @@
     },
     {
         "campaign_code": "dwl",
+        "campaign_guide_location": 4,
         "code": "extracurricular_activity",
         "encounter_sets": [
             {
@@ -127,6 +131,7 @@
     },
     {
         "campaign_code": "dwl",
+        "campaign_guide_location": 6,
         "code": "the_house_always_wins",
         "encounter_sets": [
             {
@@ -152,6 +157,7 @@
     },
     {
         "campaign_code": "dwl",
+        "campaign_guide_location": 9,
         "code": "the_miskatonic_museum",
         "encounter_sets": [
             {
@@ -177,6 +183,7 @@
     },
     {
         "campaign_code": "dwl",
+        "campaign_guide_location": 11,
         "code": "the_essex_county_express",
         "encounter_sets": [
             {
@@ -199,6 +206,7 @@
     },
     {
         "campaign_code": "dwl",
+        "campaign_guide_location": 13,
         "code": "blood_on_the_altar",
         "encounter_sets": [
             {
@@ -224,6 +232,7 @@
     },
     {
         "campaign_code": "dwl",
+        "campaign_guide_location": 17,
         "code": "undimensioned_and_unseen",
         "encounter_sets": [
             {
@@ -246,6 +255,7 @@
     },
     {
         "campaign_code": "dwl",
+        "campaign_guide_location": 19,
         "code": "where_doom_awaits",
         "encounter_sets": [
             {
@@ -277,6 +287,7 @@
     },
     {
         "campaign_code": "dwl",
+        "campaign_guide_location": 21,
         "code": "lost_in_time_and_space",
         "encounter_sets": [
             {
@@ -299,6 +310,7 @@
     },
     {
         "campaign_code": "ptc",
+        "campaign_guide_location": 4,
         "code": "curtain_call",
         "encounter_sets": [
             {
@@ -327,6 +339,7 @@
     },
     {
         "campaign_code": "ptc",
+        "campaign_guide_location": 7,
         "code": "the_last_king",
         "encounter_sets": [
             {
@@ -349,6 +362,7 @@
     },
     {
         "campaign_code": "ptc",
+        "campaign_guide_location": 10,
         "code": "echoes_of_the_past",
         "encounter_sets": [
             {
@@ -379,6 +393,7 @@
     },
     {
         "campaign_code": "ptc",
+        "campaign_guide_location": 13,
         "code": "the_unspeakable_oath",
         "encounter_sets": [
             {
@@ -408,6 +423,7 @@
     },
     {
         "campaign_code": "ptc",
+        "campaign_guide_location": 17,
         "code": "a_phantom_of_truth",
         "encounter_sets": [
             {
@@ -438,6 +454,7 @@
     },
     {
         "campaign_code": "ptc",
+        "campaign_guide_location": 22,
         "code": "the_pallid_mask",
         "encounter_sets": [
             {
@@ -465,6 +482,7 @@
     },
     {
         "campaign_code": "ptc",
+        "campaign_guide_location": 25,
         "code": "black_stars_rise",
         "encounter_sets": [
             {
@@ -503,6 +521,7 @@
     },
     {
         "campaign_code": "ptc",
+        "campaign_guide_location": 28,
         "code": "dim_carcosa",
         "encounter_sets": [
             {
@@ -528,6 +547,7 @@
     },
     {
         "campaign_code": "tfa",
+        "campaign_guide_location": 5,
         "code": "the_untamed_wilds",
         "encounter_sets": [
             {
@@ -559,6 +579,7 @@
     },
     {
         "campaign_code": "tfa",
+        "campaign_guide_location": 8,
         "code": "the_doom_of_eztli",
         "encounter_sets": [
             {
@@ -590,6 +611,7 @@
     },
     {
         "campaign_code": "tfa",
+        "campaign_guide_location": 12,
         "code": "threads_of_fate",
         "encounter_sets": [
             {
@@ -624,6 +646,7 @@
     },
     {
         "campaign_code": "tfa",
+        "campaign_guide_location": 17,
         "code": "the_boundary_beyond",
         "encounter_sets": [
             {
@@ -656,6 +679,7 @@
     },
     {
         "campaign_code": "tfa",
+        "campaign_guide_location": 22,
         "code": "pillars_of_judgment",
         "encounter_sets": [
             {
@@ -681,6 +705,7 @@
     },
     {
         "campaign_code": "tfa",
+        "campaign_guide_location": 23,
         "code": "knyan",
         "encounter_sets": [
             {
@@ -713,6 +738,7 @@
     },
     {
         "campaign_code": "tfa",
+        "campaign_guide_location": 25,
         "code": "the_city_of_archives",
         "encounter_sets": [
             {
@@ -735,6 +761,7 @@
     },
     {
         "campaign_code": "tfa",
+        "campaign_guide_location": 29,
         "code": "the_depths_of_yoth",
         "encounter_sets": [
             {
@@ -764,6 +791,7 @@
     },
     {
         "campaign_code": "tfa",
+        "campaign_guide_location": 34,
         "code": "shattered_aeons",
         "encounter_sets": [
             {
@@ -789,6 +817,7 @@
     },
     {
         "campaign_code": "tfa",
+        "campaign_guide_location": 37,
         "code": "turn_back_time",
         "encounter_sets": [
             {
@@ -823,6 +852,7 @@
     },
     {
         "campaign_code": "tcu",
+        "campaign_guide_location": 4,
         "code": "disappearance_at_the_twilight_estate",
         "encounter_sets": [
             {
@@ -854,6 +884,7 @@
     },
     {
         "campaign_code": "tcu",
+        "campaign_guide_location": 8,
         "code": "the_witching_hour",
         "encounter_sets": [
             {
@@ -889,6 +920,7 @@
     },
     {
         "campaign_code": "tcu",
+        "campaign_guide_location": 10,
         "code": "at_deaths_doorstep",
         "encounter_sets": [
             {
@@ -920,6 +952,7 @@
     },
     {
         "campaign_code": "tcu",
+        "campaign_guide_location": 16,
         "code": "the_secret_name",
         "encounter_sets": [
             {
@@ -945,6 +978,7 @@
     },
     {
         "campaign_code": "tcu",
+        "campaign_guide_location": 19,
         "code": "the_wages_of_sin",
         "encounter_sets": [
             {
@@ -976,6 +1010,7 @@
     },
     {
         "campaign_code": "tcu",
+        "campaign_guide_location": 21,
         "code": "for_the_greater_good",
         "encounter_sets": [
             {
@@ -1001,6 +1036,7 @@
     },
     {
         "campaign_code": "tcu",
+        "campaign_guide_location": 26,
         "code": "union_and_disillusion",
         "encounter_sets": [
             {
@@ -1043,6 +1079,7 @@
     },
     {
         "campaign_code": "tcu",
+        "campaign_guide_location": 30,
         "code": "in_the_clutches_of_chaos",
         "encounter_sets": [
             {
@@ -1084,6 +1121,7 @@
     },
     {
         "campaign_code": "tcu",
+        "campaign_guide_location": 36,
         "code": "before_the_black_throne",
         "encounter_sets": [
             {
@@ -1106,6 +1144,7 @@
     },
     {
         "campaign_code": "tde_a",
+        "campaign_guide_location": 5,
         "code": "beyond_the_gates_of_sleep",
         "encounter_sets": [
             {
@@ -1131,6 +1170,7 @@
     },
     {
         "campaign_code": "tde_b",
+        "campaign_guide_location": 5,
         "code": "waking_nightmare",
         "encounter_sets": [
             {
@@ -1159,6 +1199,7 @@
     },
     {
         "campaign_code": "tde_a",
+        "campaign_guide_location": 10,
         "code": "the_search_for_kadath",
         "encounter_sets": [
             {
@@ -1184,6 +1225,7 @@
     },
     {
         "campaign_code": "tde_b",
+        "campaign_guide_location": 10,
         "code": "a_thousand_shapes_of_horror",
         "encounter_sets": [
             {
@@ -1212,6 +1254,7 @@
     },
     {
         "campaign_code": "tde_a",
+        "campaign_guide_location": 16,
         "code": "dark_side_of_the_moon",
         "encounter_sets": [
             {
@@ -1231,6 +1274,7 @@
     },
     {
         "campaign_code": "tde_b",
+        "campaign_guide_location": 14,
         "code": "point_of_no_return",
         "encounter_sets": [
             {
@@ -1272,6 +1316,7 @@
     },
     {
         "campaign_code": "tde_a",
+        "campaign_guide_location": 20,
         "code": "where_the_gods_dwell",
         "encounter_sets": [
             {
@@ -1294,6 +1339,7 @@
     },
     {
         "campaign_code": "tde_b",
+        "campaign_guide_location": 17,
         "code": "weaver_of_the_cosmos",
         "encounter_sets": [
             {
@@ -1316,6 +1362,7 @@
     },
     {
         "campaign_code": "tic",
+        "campaign_guide_location": 4,
         "code": "the_pit_of_despair",
         "encounter_sets": [
             {
@@ -1344,6 +1391,7 @@
     },
     {
         "campaign_code": "tic",
+        "campaign_guide_location": 9,
         "code": "the_vanishing_of_elina_harper",
         "encounter_sets": [
             {
@@ -1376,6 +1424,7 @@
     },
     {
         "campaign_code": "tic",
+        "campaign_guide_location": 15,
         "code": "in_too_deep",
         "encounter_sets": [
             {
@@ -1413,6 +1462,7 @@
     },
     {
         "campaign_code": "tic",
+        "campaign_guide_location": 19,
         "code": "devil_reef",
         "encounter_sets": [
             {
@@ -1438,6 +1488,7 @@
     },
     {
         "campaign_code": "tic",
+        "campaign_guide_location": 24,
         "code": "horror_in_high_gear",
         "encounter_sets": [
             {
@@ -1460,6 +1511,7 @@
     },
     {
         "campaign_code": "tic",
+        "campaign_guide_location": 27,
         "code": "a_light_in_the_fog",
         "encounter_sets": [
             {
@@ -1485,6 +1537,7 @@
     },
     {
         "campaign_code": "tic",
+        "campaign_guide_location": 31,
         "code": "the_lair_of_dagon",
         "encounter_sets": [
             {
@@ -1514,6 +1567,7 @@
     },
     {
         "campaign_code": "tic",
+        "campaign_guide_location": 36,
         "code": "into_the_maelstrom",
         "encounter_sets": [
             {
@@ -1542,6 +1596,7 @@
     },
     {
         "campaign_code": "eoe",
+        "campaign_guide_location": 7,
         "code": "the_crash",
         "encounter_sets": [
             {
@@ -1573,6 +1628,7 @@
     },
     {
         "campaign_code": "eoe",
+        "campaign_guide_location": 13,
         "code": "lost_in_the_night",
         "encounter_sets": [
             {
@@ -1604,6 +1660,7 @@
     },
     {
         "campaign_code": "eoe",
+        "campaign_guide_location": 16,
         "code": "seeping_nightmares",
         "encounter_sets": [
             {
@@ -1635,6 +1692,7 @@
     },
     {
         "campaign_code": "eoe",
+        "campaign_guide_location": 23,
         "code": "fatal_mirage",
         "encounter_sets": [
             {
@@ -1666,6 +1724,7 @@
     },
     {
         "campaign_code": "eoe",
+        "campaign_guide_location": 27,
         "code": "to_the_forbidden_peaks",
         "encounter_sets": [
             {
@@ -1691,6 +1750,7 @@
     },
     {
         "campaign_code": "eoe",
+        "campaign_guide_location": 36,
         "code": "city_of_the_elder_things",
         "encounter_sets": [
             {
@@ -1731,6 +1791,7 @@
     },
     {
         "campaign_code": "eoe",
+        "campaign_guide_location": 49,
         "code": "the_great_seal",
         "encounter_sets": [
             {
@@ -1765,6 +1826,7 @@
     },
     {
         "campaign_code": "eoe",
+        "campaign_guide_location": 56,
         "code": "stirring_in_the_deep",
         "encounter_sets": [
             {
@@ -1803,6 +1865,7 @@
     },
     {
         "campaign_code": "tsk",
+        "campaign_guide_location": 5,
         "code": "riddles_and_rain",
         "encounter_sets": [
             {
@@ -1838,6 +1901,7 @@
     },
     {
         "campaign_code": "tsk",
+        "campaign_guide_location": 11,
         "code": "dead_heat",
         "encounter_sets": [
             {
@@ -1860,6 +1924,7 @@
     },
     {
         "campaign_code": "tsk",
+        "campaign_guide_location": 16,
         "code": "sanguine_shadows",
         "encounter_sets": [
             {
@@ -1888,6 +1953,7 @@
     },
     {
         "campaign_code": "tsk",
+        "campaign_guide_location": 21,
         "code": "dealings_in_the_dark",
         "encounter_sets": [
             {
@@ -1917,6 +1983,7 @@
     },
     {
         "campaign_code": "tsk",
+        "campaign_guide_location": 28,
         "code": "dancing_mad",
         "encounter_sets": [
             {
@@ -1942,6 +2009,7 @@
     },
     {
         "campaign_code": "tsk",
+        "campaign_guide_location": 33,
         "code": "on_thin_ice",
         "encounter_sets": [
             {
@@ -1973,6 +2041,7 @@
     },
     {
         "campaign_code": "tsk",
+        "campaign_guide_location": 38,
         "code": "dogs_of_war",
         "encounter_sets": [
             {
@@ -1998,6 +2067,7 @@
     },
     {
         "campaign_code": "tsk",
+        "campaign_guide_location": 46,
         "code": "shades_of_suffering",
         "encounter_sets": [
             {
@@ -2023,6 +2093,7 @@
     },
     {
         "campaign_code": "tsk",
+        "campaign_guide_location": 56,
         "code": "without_a_trace",
         "encounter_sets": [
             {
@@ -2048,6 +2119,7 @@
     },
     {
         "campaign_code": "tsk",
+        "campaign_guide_location": 59,
         "code": "congress_of_the_keys",
         "encounter_sets": [
             {
@@ -2092,6 +2164,7 @@
     },
     {
         "campaign_code": "fhv",
+        "campaign_guide_location": 4,
         "code": "prelude_1",
         "encounter_sets": [
             {
@@ -2111,6 +2184,7 @@
     },
     {
         "campaign_code": "fhv",
+        "campaign_guide_location": 10,
         "code": "written_in_rock",
         "encounter_sets": [
             {
@@ -2145,6 +2219,7 @@
     },
     {
         "campaign_code": "fhv",
+        "campaign_guide_location": 14,
         "code": "hemlock_house",
         "encounter_sets": [
             {
@@ -2185,6 +2260,7 @@
     },
     {
         "campaign_code": "fhv",
+        "campaign_guide_location": 19,
         "code": "the_silent_heath",
         "encounter_sets": [
             {
@@ -2225,6 +2301,7 @@
     },
     {
         "campaign_code": "fhv",
+        "campaign_guide_location": 23,
         "code": "the_lost_sister",
         "encounter_sets": [
             {
@@ -2259,6 +2336,7 @@
     },
     {
         "campaign_code": "fhv",
+        "campaign_guide_location": 27,
         "code": "the_thing_in_the_depths",
         "encounter_sets": [
             {
@@ -2290,6 +2368,7 @@
     },
     {
         "campaign_code": "fhv",
+        "campaign_guide_location": 34,
         "code": "the_twisted_hollow",
         "encounter_sets": [
             {
@@ -2312,6 +2391,7 @@
     },
     {
         "campaign_code": "fhv",
+        "campaign_guide_location": 39,
         "code": "prelude_2",
         "encounter_sets": [
             {
@@ -2331,6 +2411,7 @@
     },
     {
         "campaign_code": "fhv",
+        "campaign_guide_location": 46,
         "code": "the_longest_night",
         "encounter_sets": [
             {
@@ -2366,6 +2447,7 @@
     },
     {
         "campaign_code": "fhv",
+        "campaign_guide_location": 51,
         "code": "prelude_3",
         "encounter_sets": [
             {
@@ -2388,6 +2470,7 @@
     },
     {
         "campaign_code": "fhv",
+        "campaign_guide_location": 55,
         "code": "prelude_4",
         "encounter_sets": [
             {
@@ -2407,6 +2490,7 @@
     },
     {
         "campaign_code": "fhv",
+        "campaign_guide_location": 61,
         "code": "fate_of_the_vale",
         "encounter_sets": [
             {
@@ -2444,6 +2528,7 @@
     },
     {
         "campaign_code": "tdc",
+        "campaign_guide_location": 4,
         "code": "one_last_job",
         "encounter_sets": [
             {
@@ -2473,6 +2558,7 @@
     },
     {
         "campaign_code": "tdc",
+        "campaign_guide_location": 12,
         "code": "the_western_wall",
         "encounter_sets": [
             {
@@ -2511,6 +2597,7 @@
     },
     {
         "campaign_code": "tdc",
+        "campaign_guide_location": 16,
         "code": "the_drowned_quarter",
         "encounter_sets": [
             {
@@ -2545,6 +2632,7 @@
     },
     {
         "campaign_code": "tdc",
+        "campaign_guide_location": 19,
         "code": "the_apiary",
         "encounter_sets": [
             {
@@ -2583,6 +2671,7 @@
     },
     {
         "campaign_code": "tdc",
+        "campaign_guide_location": 24,
         "code": "the_grand_vault",
         "encounter_sets": [
             {
@@ -2611,6 +2700,7 @@
     },
     {
         "campaign_code": "tdc",
+        "campaign_guide_location": 28,
         "code": "court_of_the_ancients",
         "encounter_sets": [
             {
@@ -2648,6 +2738,7 @@
     },
     {
         "campaign_code": "tdc",
+        "campaign_guide_location": 32,
         "code": "obsidian_canyons",
         "encounter_sets": [
             {
@@ -2688,6 +2779,7 @@
     },
     {
         "campaign_code": "tdc",
+        "campaign_guide_location": 38,
         "code": "sepulchre_of_the_sleeper",
         "encounter_sets": [
             {
@@ -2719,6 +2811,7 @@
     },
     {
         "campaign_code": "tdc",
+        "campaign_guide_location": 44,
         "code": "the_doom_of_arkham_part_1",
         "encounter_sets": [
             {
@@ -2760,6 +2853,7 @@
     },
     {
         "campaign_code": "tdc",
+        "campaign_guide_location": 47,
         "code": "the_doom_of_arkham_part_2",
         "encounter_sets": [
             {
@@ -2798,6 +2892,7 @@
     },
     {
         "campaign_code": "core_ch2",
+        "campaign_guide_location": 3,
         "code": "spreading_flames",
         "encounter_sets": [
             {
@@ -2832,6 +2927,7 @@
     },
     {
         "campaign_code": "core_ch2",
+        "campaign_guide_location": 6,
         "code": "smoke_and_mirrors",
         "encounter_sets": [
             {
@@ -2866,6 +2962,7 @@
     },
     {
         "campaign_code": "core_ch2",
+        "campaign_guide_location": 11,
         "code": "queen_of_ash",
         "encounter_sets": [
             {
@@ -2900,6 +2997,7 @@
     },
     {
         "campaign_code": "cob",
+        "campaign_guide_location": 7,
         "code": "river_of_blood",
         "encounter_sets": [
             {
@@ -2949,6 +3047,7 @@
     },
     {
         "campaign_code": "cob",
+        "campaign_guide_location": 12,
         "code": "new_horizons",
         "encounter_sets": [
             {
@@ -2995,6 +3094,7 @@
     },
     {
         "campaign_code": "cob",
+        "campaign_guide_location": 21,
         "code": "blood_money",
         "encounter_sets": [
             {
@@ -3029,6 +3129,7 @@
     },
     {
         "campaign_code": "rtnotz",
+        "campaign_guide_location": 1,
         "code": "return_to_the_gathering",
         "encounter_sets": [
             {
@@ -3058,6 +3159,7 @@
     },
     {
         "campaign_code": "rtnotz",
+        "campaign_guide_location": 1,
         "code": "return_to_the_midnight_masks",
         "encounter_sets": [
             {
@@ -3094,6 +3196,7 @@
     },
     {
         "campaign_code": "rtnotz",
+        "campaign_guide_location": 1,
         "code": "return_to_the_devourer_below",
         "encounter_sets": [
             {
@@ -3145,6 +3248,7 @@
     },
     {
         "campaign_code": "rtdwl",
+        "campaign_guide_location": 1,
         "code": "return_to_extracurricular_activity",
         "encounter_sets": [
             {
@@ -3180,6 +3284,7 @@
     },
     {
         "campaign_code": "rtdwl",
+        "campaign_guide_location": 1,
         "code": "return_to_the_house_always_wins",
         "encounter_sets": [
             {
@@ -3209,6 +3314,7 @@
     },
     {
         "campaign_code": "rtdwl",
+        "campaign_guide_location": 1,
         "code": "return_to_the_miskatonic_museum",
         "encounter_sets": [
             {
@@ -3238,6 +3344,7 @@
     },
     {
         "campaign_code": "rtdwl",
+        "campaign_guide_location": 1,
         "code": "return_to_the_essex_county_express",
         "encounter_sets": [
             {
@@ -3264,6 +3371,7 @@
     },
     {
         "campaign_code": "rtdwl",
+        "campaign_guide_location": 1,
         "code": "return_to_blood_on_the_altar",
         "encounter_sets": [
             {
@@ -3293,6 +3401,7 @@
     },
     {
         "campaign_code": "rtdwl",
+        "campaign_guide_location": 1,
         "code": "return_to_undimensioned_and_unseen",
         "encounter_sets": [
             {
@@ -3319,6 +3428,7 @@
     },
     {
         "campaign_code": "rtdwl",
+        "campaign_guide_location": 1,
         "code": "return_to_where_doom_awaits",
         "encounter_sets": [
             {
@@ -3354,6 +3464,7 @@
     },
     {
         "campaign_code": "rtdwl",
+        "campaign_guide_location": 1,
         "code": "return_to_lost_in_time_and_space",
         "encounter_sets": [
             {
@@ -3380,6 +3491,7 @@
     },
     {
         "campaign_code": "rtptc",
+        "campaign_guide_location": 1,
         "code": "return_to_curtain_call",
         "encounter_sets": [
             {
@@ -3412,6 +3524,7 @@
     },
     {
         "campaign_code": "rtptc",
+        "campaign_guide_location": 1,
         "code": "return_to_the_last_king",
         "encounter_sets": [
             {
@@ -3438,6 +3551,7 @@
     },
     {
         "campaign_code": "rtptc",
+        "campaign_guide_location": 1,
         "code": "return_to_echoes_of_the_past",
         "encounter_sets": [
             {
@@ -3472,6 +3586,7 @@
     },
     {
         "campaign_code": "rtptc",
+        "campaign_guide_location": 1,
         "code": "return_to_the_unspeakable_oath",
         "encounter_sets": [
             {
@@ -3505,6 +3620,7 @@
     },
     {
         "campaign_code": "rtptc",
+        "campaign_guide_location": 1,
         "code": "return_to_a_phantom_of_truth",
         "encounter_sets": [
             {
@@ -3539,6 +3655,7 @@
     },
     {
         "campaign_code": "rtptc",
+        "campaign_guide_location": 1,
         "code": "return_to_the_pallid_mask",
         "encounter_sets": [
             {
@@ -3566,6 +3683,7 @@
     },
     {
         "campaign_code": "rtptc",
+        "campaign_guide_location": 1,
         "code": "return_to_black_stars_rise",
         "encounter_sets": [
             {
@@ -3608,6 +3726,7 @@
     },
     {
         "campaign_code": "rtptc",
+        "campaign_guide_location": 1,
         "code": "return_to_dim_carcosa",
         "encounter_sets": [
             {
@@ -3637,6 +3756,7 @@
     },
     {
         "campaign_code": "rttfa",
+        "campaign_guide_location": 1,
         "code": "return_to_the_untamed_wilds",
         "encounter_sets": [
             {
@@ -3675,6 +3795,7 @@
     },
     {
         "campaign_code": "rttfa",
+        "campaign_guide_location": 1,
         "code": "return_to_the_doom_of_eztli",
         "encounter_sets": [
             {
@@ -3714,6 +3835,7 @@
     },
     {
         "campaign_code": "rttfa",
+        "campaign_guide_location": 2,
         "code": "return_to_threads_of_fate",
         "encounter_sets": [
             {
@@ -3752,6 +3874,7 @@
     },
     {
         "campaign_code": "rttfa",
+        "campaign_guide_location": 1,
         "code": "return_to_the_boundary_beyond",
         "encounter_sets": [
             {
@@ -3788,6 +3911,7 @@
     },
     {
         "campaign_code": "rttfa",
+        "campaign_guide_location": 3,
         "code": "return_to_pillars_of_judgment",
         "encounter_sets": [
             {
@@ -3820,6 +3944,7 @@
     },
     {
         "campaign_code": "rttfa",
+        "campaign_guide_location": 1,
         "code": "return_to_knyan",
         "encounter_sets": [
             {
@@ -3856,6 +3981,7 @@
     },
     {
         "campaign_code": "rttfa",
+        "campaign_guide_location": 1,
         "code": "return_to_the_city_of_archives",
         "encounter_sets": [
             {
@@ -3882,6 +4008,7 @@
     },
     {
         "campaign_code": "rttfa",
+        "campaign_guide_location": 3,
         "code": "return_to_the_depths_of_yoth",
         "encounter_sets": [
             {
@@ -3915,6 +4042,7 @@
     },
     {
         "campaign_code": "rttfa",
+        "campaign_guide_location": 1,
         "code": "return_to_shattered_aeons",
         "encounter_sets": [
             {
@@ -3944,6 +4072,7 @@
     },
     {
         "campaign_code": "rttfa",
+        "campaign_guide_location": 1,
         "code": "return_to_turn_back_time",
         "encounter_sets": [
             {
@@ -3989,6 +4118,7 @@
     },
     {
         "campaign_code": "rttcu",
+        "campaign_guide_location": 4,
         "code": "return_to_disappearance_at_the_twilight_estate",
         "encounter_sets": [
             {
@@ -4028,6 +4158,7 @@
     },
     {
         "campaign_code": "rttcu",
+        "campaign_guide_location": 4,
         "code": "return_to_the_witching_hour",
         "encounter_sets": [
             {
@@ -4071,6 +4202,7 @@
     },
     {
         "campaign_code": "rttcu",
+        "campaign_guide_location": 1,
         "code": "return_to_at_deaths_doorstep",
         "encounter_sets": [
             {
@@ -4106,6 +4238,7 @@
     },
     {
         "campaign_code": "rttcu",
+        "campaign_guide_location": 1,
         "code": "return_to_the_secret_name",
         "encounter_sets": [
             {
@@ -4135,6 +4268,7 @@
     },
     {
         "campaign_code": "rttcu",
+        "campaign_guide_location": 5,
         "code": "return_to_the_wages_of_sin",
         "encounter_sets": [
             {
@@ -4170,6 +4304,7 @@
     },
     {
         "campaign_code": "rttcu",
+        "campaign_guide_location": 1,
         "code": "return_to_for_the_greater_good",
         "encounter_sets": [
             {
@@ -4199,6 +4334,7 @@
     },
     {
         "campaign_code": "rttcu",
+        "campaign_guide_location": 5,
         "code": "return_to_union_and_disillusion",
         "encounter_sets": [
             {
@@ -4245,6 +4381,7 @@
     },
     {
         "campaign_code": "rttcu",
+        "campaign_guide_location": 1,
         "code": "return_to_in_the_clutches_of_chaos",
         "encounter_sets": [
             {
@@ -4290,6 +4427,7 @@
     },
     {
         "campaign_code": "rttcu",
+        "campaign_guide_location": 7,
         "code": "return_to_before_the_black_throne",
         "encounter_sets": [
             {
