@@ -35,6 +35,6 @@ and scenario names from translated encounter sets in
 npm run import:translations
 ```
 
-New scenario translations start at campaign guide page `1`, which needs to be adjusted to match
-the localized campaign guide. The import only fills missing fields and preserves adjusted translated names, page
-numbers, guide URLs, and rules insert URLs.
+New scenario translations use `null` when the translated campaign guide page
+is absent. The import only fills missing fields and preserves adjusted translated
+names, page numbers, guide URLs, and rules insert URLs.

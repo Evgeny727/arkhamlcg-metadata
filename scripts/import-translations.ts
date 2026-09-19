@@ -293,7 +293,7 @@ function mergeScenarioTranslations(
         );
 
         return {
-            campaign_guide_location: existing?.campaign_guide_location ?? 1,
+            campaign_guide_location: existing?.campaign_guide_location ?? null,
             code: scenario.code,
             name: mergeImportedName(
                 existing?.name,

@@ -6,9 +6,10 @@ export const scenarioTranslationSchema = z
             .number()
             .int()
             .positive()
+            .nullable()
             .optional()
             .describe(
-                "One-based PDF page where the translated scenario section begins.",
+                "One-based PDF page where the translated scenario section begins, or null when absent.",
             ),
         code: z.string().describe("Code of the scenario being translated."),
         name: z
