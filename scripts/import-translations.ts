@@ -57,7 +57,6 @@ const defaultMultipartFormat: MultipartFormat = {
 };
 
 const multipartFormats: Readonly<Record<string, MultipartFormat>> = {
-    cs: { partSuffix: "", titleSuffix: ", část " },
     de: { partSuffix: "", titleSuffix: ", Teil " },
     es: { partSuffix: "", titleSuffix: " parte " },
     fr: { partSuffix: "", titleSuffix: ", Partie " },
@@ -67,7 +66,6 @@ const multipartFormats: Readonly<Record<string, MultipartFormat>> = {
     pt: { partSuffix: "", titleSuffix: ", Parte " },
     ru: { partSuffix: "", titleSuffix: ". Часть " },
     uk: { partSuffix: "", titleSuffix: ". Частина " },
-    vn: { partSuffix: "", titleSuffix: ", Phần " },
     zh: { partSuffix: "部", titleSuffix: "，第" },
     "zh-cn": { partSuffix: "部", titleSuffix: "，第" },
 };
@@ -189,6 +187,7 @@ async function fetchLocales(): Promise<string[]> {
     return entries
         .filter((entry) => entry.type === "dir")
         .map((entry) => translationDirectorySchema.parse(entry).name)
+        .filter((name) => name !== "cs" && name !== "vn")
         .sort();
 }
 
