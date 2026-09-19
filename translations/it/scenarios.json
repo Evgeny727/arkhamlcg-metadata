@@ -1,0 +1,775 @@
+[
+    {
+        "campaign_guide_location": 1,
+        "code": "the_gathering",
+        "name": "L'Adunanza"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_midnight_masks",
+        "name": "Le Maschere di Mezzanotte"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_devourer_below",
+        "name": "Il Divoratore Sotterraneo"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "extracurricular_activity",
+        "name": "Attività Extracurricolare"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_house_always_wins",
+        "name": "Il Banco Vince Sempre"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_miskatonic_museum",
+        "name": "Il Museo della Miskatonic"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_essex_county_express",
+        "name": "L'Espresso di Essex County"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "blood_on_the_altar",
+        "name": "Sangue sull'Altare"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "undimensioned_and_unseen",
+        "name": "Le Dimensioni dell'Invisibile"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "where_doom_awaits",
+        "name": "Verso un Destino Oscuro"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "lost_in_time_and_space",
+        "name": "Oltre il Tempo e lo Spazio"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "curtain_call",
+        "name": "Cala il Sipario"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_last_king",
+        "name": "L'Ultimo Re"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "echoes_of_the_past",
+        "name": "Echi dal Passato"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_unspeakable_oath",
+        "name": "Il Giuramento Impronunciabile"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "a_phantom_of_truth",
+        "name": "Lo Spettro della Verità"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_pallid_mask",
+        "name": "La Maschera Pallida"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "black_stars_rise",
+        "name": "L'Ascesa delle Stelle Nere"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "dim_carcosa",
+        "name": "La Cupa Carcosa"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_untamed_wilds",
+        "name": "La Foresta Inviolata"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_doom_of_eztli",
+        "name": "La Maledizione di Eztli"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "threads_of_fate",
+        "name": "Trame del Fato"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_boundary_beyond",
+        "name": "Oltre i Confini"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "pillars_of_judgment",
+        "name": "Cuore degli Antichi, Parte I"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "knyan",
+        "name": "Cuore degli Antichi, Parte II"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_city_of_archives",
+        "name": "Città degli Archivi"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_depths_of_yoth",
+        "name": "Abissi di Yoth"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "shattered_aeons",
+        "name": "Eoni Infranti"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "turn_back_time",
+        "name": "Indietro nel Tempo"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "disappearance_at_the_twilight_estate",
+        "name": "Sparizione alla Villa del Crepuscolo"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_witching_hour",
+        "name": "L'Ora delle Streghe"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "at_deaths_doorstep",
+        "name": "Sulla Soglia della Morte"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_secret_name",
+        "name": "Il Nome Segreto"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_wages_of_sin",
+        "name": "Il Prezzo del Peccato"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "for_the_greater_good",
+        "name": "Per il Bene Superiore"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "union_and_disillusion",
+        "name": "Unione e Disillusione"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "in_the_clutches_of_chaos",
+        "name": "Nelle Grinfie del Caos"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "before_the_black_throne",
+        "name": "Al Cospetto del Trono Nero"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "beyond_the_gates_of_sleep",
+        "name": "Oltre le Soglie del Sonno"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "waking_nightmare",
+        "name": "Incubo a Occhi Aperti"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_search_for_kadath",
+        "name": "Alla Ricerca del Kadath"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "a_thousand_shapes_of_horror",
+        "name": "Le Mille Forme dell'Orrore"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "dark_side_of_the_moon",
+        "name": "Il Lato Oscuro della Luna"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "point_of_no_return",
+        "name": "Punto di Non Ritorno"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "where_the_gods_dwell",
+        "name": "La Dimora degli Dèi"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "weaver_of_the_cosmos",
+        "name": "La Tessitrice del Cosmo"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_pit_of_despair",
+        "name": "La Grotta della Disperazione"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_vanishing_of_elina_harper",
+        "name": "La Scomparsa di Elina Harper"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "in_too_deep",
+        "name": "Con l'Acqua alla Gola"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "devil_reef",
+        "name": "Lo Scoglio del Diavolo"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "horror_in_high_gear",
+        "name": "Orrore ad Alta Velocità"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "a_light_in_the_fog",
+        "name": "Una Luce nella Nebbia"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_lair_of_dagon",
+        "name": "Il Covo di Dagon"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "into_the_maelstrom",
+        "name": "Nel Maelstrom"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_crash",
+        "name": "Ghiaccio e Morte, Parte I"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "lost_in_the_night",
+        "name": "Ghiaccio e Morte, Parte II"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "seeping_nightmares",
+        "name": "Ghiaccio e Morte, Parte III"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "fatal_mirage",
+        "name": "Miraggio Fatale"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "to_the_forbidden_peaks",
+        "name": "Alle Vette Proibite"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "city_of_the_elder_things",
+        "name": "La Città degli Antichi"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_great_seal",
+        "name": "Il Cuore della Follia, Parte I"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "stirring_in_the_deep",
+        "name": "Il Cuore della Follia, Parte II"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "riddles_and_rain",
+        "name": "Pioggia ed Enigmi"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "dead_heat",
+        "name": "Calura Mortale"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "sanguine_shadows",
+        "name": "Ombre Sanguigne"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "dealings_in_the_dark",
+        "name": "Ombre Dolorose"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "dancing_mad",
+        "name": "Danza Selvaggia"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "on_thin_ice",
+        "name": "Sul Ghiaccio Sottile"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "dogs_of_war",
+        "name": "Cani da Guerra"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "shades_of_suffering",
+        "name": "Ombre Sanguigne"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "without_a_trace",
+        "name": "Senza Tracce"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "congress_of_the_keys",
+        "name": "Il Congresso delle Chiavi"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "prelude_1"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "written_in_rock",
+        "name": "Inciso nella Pietra"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "hemlock_house",
+        "name": "La Casa degli Hemlock"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_silent_heath",
+        "name": "La Brughiera Silente"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_lost_sister",
+        "name": "La Sorella Perduta"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_thing_in_the_depths",
+        "name": "L'Essere dagli Abissi"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_twisted_hollow",
+        "name": "La Cavità Contorta"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "prelude_2"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_longest_night",
+        "name": "La Notte Più Lunga"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "prelude_3"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "prelude_4"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "fate_of_the_vale",
+        "name": "Il Destino della Valle"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "one_last_job"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_western_wall"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_drowned_quarter"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_apiary"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_grand_vault"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "court_of_the_ancients"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "obsidian_canyons"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "sepulchre_of_the_sleeper"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_doom_of_arkham_part_1"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_doom_of_arkham_part_2"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "spreading_flames"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "smoke_and_mirrors"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "queen_of_ash"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "river_of_blood"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "new_horizons"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "blood_money"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_gathering",
+        "name": "Ritorno a... L'Adunanza"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_midnight_masks",
+        "name": "Ritorno a... Le Maschere di Mezzanotte"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_devourer_below",
+        "name": "Ritorno a... Il Divoratore Sotterraneo"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_extracurricular_activity",
+        "name": "Ritorno a... Attività Extracurricolare"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_house_always_wins",
+        "name": "Ritorno a... Il Banco Vince Sempre"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_miskatonic_museum",
+        "name": "Ritorno a... Il Museo della Miskatonic"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_essex_county_express",
+        "name": "Ritorno a... L'Espresso di Essex County"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_blood_on_the_altar",
+        "name": "Ritorno a... Sangue sull'Altare"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_undimensioned_and_unseen",
+        "name": "Ritorno a... Le Dimensioni dell'Invisibile"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_where_doom_awaits",
+        "name": "Ritorno a... Verso un Destino Oscuro"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_lost_in_time_and_space",
+        "name": "Ritorno a... Oltre il Tempo e lo Spazio"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_curtain_call",
+        "name": "Ritorno a... Cala il Sipario"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_last_king",
+        "name": "Ritorno a... L'Ultimo Re"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_echoes_of_the_past",
+        "name": "Ritorno a... Echi dal Passato"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_unspeakable_oath",
+        "name": "Ritorno a... Il Giuramento Impronunciabile"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_a_phantom_of_truth",
+        "name": "Ritorno a... Lo Spettro della Verità"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_pallid_mask",
+        "name": "Ritorno a... La Maschera Pallida"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_black_stars_rise",
+        "name": "Ritorno a... L'Ascesa delle Stelle Nere"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_dim_carcosa",
+        "name": "Ritorno a... La Cupa Carcosa"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_untamed_wilds",
+        "name": "Ritorno a... La Foresta Inviolata"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_doom_of_eztli",
+        "name": "Ritorno a... La Maledizione di Eztli"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_threads_of_fate",
+        "name": "Ritorno a... Trame del Fato"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_boundary_beyond",
+        "name": "Ritorno a... Oltre i Confini"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_pillars_of_judgment",
+        "name": "Ritorno a... Cuore degli Antichi, Parte I"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_knyan",
+        "name": "Ritorno a... Cuore degli Antichi, Parte II"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_city_of_archives",
+        "name": "Ritorno a... Città degli Archivi"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_depths_of_yoth",
+        "name": "Ritorno a... Abissi di Yoth"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_shattered_aeons",
+        "name": "Ritorno a... Eoni Infranti"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_turn_back_time",
+        "name": "Ritorno a... Indietro nel Tempo"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_disappearance_at_the_twilight_estate",
+        "name": "Ritorno a... Sparizione alla Villa del Crepuscolo"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_witching_hour",
+        "name": "Ritorno a... L'Ora delle Streghe"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_at_deaths_doorstep",
+        "name": "Ritorno a... Sulla Soglia della Morte"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_secret_name",
+        "name": "Ritorno a... Il Nome Segreto"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_wages_of_sin",
+        "name": "Ritorno a... Il Prezzo del Peccato"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_for_the_greater_good",
+        "name": "Ritorno a... Per il Bene Superiore"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_union_and_disillusion",
+        "name": "Ritorno a... Unione e Disillusione"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_in_the_clutches_of_chaos",
+        "name": "Ritorno a... Nelle Grinfie del Caos"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_before_the_black_throne",
+        "name": "Ritorno a... Al Cospetto del Trono Nero"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "curse_of_the_rougarou",
+        "name": "La Maledizione dei Rougarou"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "carnevale_of_horrors",
+        "name": "Il Carnevale degli Orrori"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_labyrinths_of_lunacy",
+        "name": "I Labirinti della Follia"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_eternal_slumber",
+        "name": "Il Sonno Eterno"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_nights_usurper",
+        "name": "L'Usurpatore della Notte"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "murder_at_the_excelsior_hotel",
+        "name": "Assassinio all'Hotel Excelsior"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_blob_that_ate_everything",
+        "name": "La Melma Che Divorò Ogni Cosa"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "war_of_the_outer_gods",
+        "name": "La Guerra degli Dèi Esterni"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "machinations_through_time",
+        "name": "Macchinazioni Temporali"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "fortune_and_folly",
+        "name": "Fortuna e Follia"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_midwinter_gala",
+        "name": "Il Gala di Mezzo Inverno"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_blob_that_ate_everything_else",
+        "name": "La Melma Che Divorò Ogni Altra Cosa"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "film_fatale"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "read_or_die",
+        "name": "Leggi o Muori"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "all_or_nothing",
+        "name": "Tutto o Niente"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "bad_blood",
+        "name": "Sangue Amaro"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "by_the_book",
+        "name": "Da Manuale"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "red_tide_rising",
+        "name": "Marea Rossa"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "laid_to_rest",
+        "name": "Riposi in Pace"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "relics_of_the_past",
+        "name": "Reliquie del Passato"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "enthralling_encore"
+    }
+]

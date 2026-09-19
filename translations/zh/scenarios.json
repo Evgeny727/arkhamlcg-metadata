@@ -1,0 +1,775 @@
+[
+    {
+        "campaign_guide_location": 1,
+        "code": "the_gathering",
+        "name": "聚集於此"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_midnight_masks",
+        "name": "午夜假面"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_devourer_below",
+        "name": "地底噬魔"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "extracurricular_activity",
+        "name": "課外活動"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_house_always_wins",
+        "name": "百賭百勝"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_miskatonic_museum",
+        "name": "博物館之夜"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_essex_county_express",
+        "name": "瘋狂列車"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "blood_on_the_altar",
+        "name": "血色祭壇"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "undimensioned_and_unseen",
+        "name": "無人知曉"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "where_doom_awaits",
+        "name": "毀滅之地"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "lost_in_time_and_space",
+        "name": "迷失時空"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "curtain_call",
+        "name": "謝幕"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_last_king",
+        "name": "最後的王者"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "echoes_of_the_past",
+        "name": "往事回聲"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_unspeakable_oath",
+        "name": "邪穢誓約"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "a_phantom_of_truth",
+        "name": "真相幻影"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_pallid_mask",
+        "name": "蒼白面具"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "black_stars_rise",
+        "name": "黑星升起"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "dim_carcosa",
+        "name": "卡城幽影"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_untamed_wilds",
+        "name": "荒莽密林"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_doom_of_eztli",
+        "name": "埃茲特里的覆滅"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "threads_of_fate",
+        "name": "命運之線"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_boundary_beyond",
+        "name": "界限彼端"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "pillars_of_judgment",
+        "name": "久遠腹地，第I部"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "knyan",
+        "name": "久遠腹地，第II部"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_city_of_archives",
+        "name": "天機之城"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_depths_of_yoth",
+        "name": "幽嘶深淵"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "shattered_aeons",
+        "name": "破碎永世"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "turn_back_time",
+        "name": "時間倒流"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "disappearance_at_the_twilight_estate",
+        "name": "暮色莊園失蹤事件"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_witching_hour",
+        "name": "巫異時刻"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "at_deaths_doorstep",
+        "name": "死亡門前"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_secret_name",
+        "name": "隱密之名"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_wages_of_sin",
+        "name": "惡罪報應"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "for_the_greater_good",
+        "name": "崇高利益"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "union_and_disillusion",
+        "name": "聚合幻滅"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "in_the_clutches_of_chaos",
+        "name": "混沌魔掌"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "before_the_black_throne",
+        "name": "黑色王座"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "beyond_the_gates_of_sleep",
+        "name": "夢境門外"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "waking_nightmare",
+        "name": "清醒噩夢"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_search_for_kadath",
+        "name": "尋覓卡達斯"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "a_thousand_shapes_of_horror",
+        "name": "萬千駭形"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "dark_side_of_the_moon",
+        "name": "月之暗面"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "point_of_no_return",
+        "name": "無歸之地"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "where_the_gods_dwell",
+        "name": "神居之所"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "weaver_of_the_cosmos",
+        "name": "編織宇宙"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_pit_of_despair",
+        "name": "絕望深坑"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_vanishing_of_elina_harper",
+        "name": "艾蓮娜·哈珀失蹤案"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "in_too_deep",
+        "name": "深陷危局"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "devil_reef",
+        "name": "魔鬼礁石"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "horror_in_high_gear",
+        "name": "全速恐懼"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "a_light_in_the_fog",
+        "name": "霧中之光"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_lair_of_dagon",
+        "name": "達貢巢穴"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "into_the_maelstrom",
+        "name": "暗潮之下"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_crash",
+        "name": "亡命冰原，第I部"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "lost_in_the_night",
+        "name": "亡命冰原，第II部"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "seeping_nightmares",
+        "name": "亡命冰原，第III部"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "fatal_mirage",
+        "name": "致命幻景"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "to_the_forbidden_peaks",
+        "name": "失落之峰"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "city_of_the_elder_things",
+        "name": "古老者之城"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_great_seal",
+        "name": "瘋狂之心，第I部"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "stirring_in_the_deep",
+        "name": "瘋狂之心，第II部"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "riddles_and_rain",
+        "name": "雨霧中的謎團"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "dead_heat",
+        "name": "致命酷熱"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "sanguine_shadows",
+        "name": "訕笑陰影"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "dealings_in_the_dark",
+        "name": "暗盤交易"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "dancing_mad",
+        "name": "癲狂起舞"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "on_thin_ice",
+        "name": "如履薄冰"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "dogs_of_war",
+        "name": "戰爭之犬"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "shades_of_suffering",
+        "name": "苦難形影"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "without_a_trace",
+        "name": "無痕異域"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "congress_of_the_keys",
+        "name": "密鑰峰會"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "prelude_1"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "written_in_rock",
+        "name": "銘刻於石"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "hemlock_house",
+        "name": "鐵杉之家"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_silent_heath",
+        "name": "寂靜荒原"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_lost_sister",
+        "name": "迷途姊妹"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_thing_in_the_depths",
+        "name": "池底之物"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_twisted_hollow",
+        "name": "盤根空樹"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "prelude_2"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_longest_night",
+        "name": "長夜"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "prelude_3"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "prelude_4"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "fate_of_the_vale",
+        "name": "谷中宿命"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "one_last_job"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_western_wall"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_drowned_quarter"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_apiary"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_grand_vault"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "court_of_the_ancients"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "obsidian_canyons"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "sepulchre_of_the_sleeper"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_doom_of_arkham_part_1"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_doom_of_arkham_part_2"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "spreading_flames"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "smoke_and_mirrors"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "queen_of_ash"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "river_of_blood"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "new_horizons"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "blood_money"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_gathering",
+        "name": "重返聚集於此"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_midnight_masks",
+        "name": "重返午夜假面"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_devourer_below",
+        "name": "重返地底噬魔"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_extracurricular_activity",
+        "name": "重返課外活動"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_house_always_wins",
+        "name": "重返百賭百勝"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_miskatonic_museum",
+        "name": "重返博物館之夜"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_essex_county_express",
+        "name": "重返瘋狂列車"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_blood_on_the_altar",
+        "name": "重返血色祭壇"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_undimensioned_and_unseen",
+        "name": "重返無人知曉"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_where_doom_awaits",
+        "name": "重返毀滅之地"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_lost_in_time_and_space",
+        "name": "重返迷失時空"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_curtain_call",
+        "name": "重返謝幕"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_last_king",
+        "name": "重返最後的王者"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_echoes_of_the_past",
+        "name": "重返往事回聲"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_unspeakable_oath",
+        "name": "重返邪穢誓約"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_a_phantom_of_truth",
+        "name": "重返真相幻影"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_pallid_mask",
+        "name": "重返蒼白面具"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_black_stars_rise",
+        "name": "重返黑星升起"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_dim_carcosa",
+        "name": "重返卡城幽影"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_untamed_wilds",
+        "name": "重返荒莽密林"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_doom_of_eztli",
+        "name": "重返埃茲特里的覆滅"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_threads_of_fate",
+        "name": "重返命運之線"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_boundary_beyond",
+        "name": "重返界限彼端"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_pillars_of_judgment",
+        "name": "重返久遠腹地，第I部"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_knyan",
+        "name": "重返久遠腹地，第II部"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_city_of_archives",
+        "name": "重返天機之城 "
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_depths_of_yoth",
+        "name": "重返幽嘶深淵"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_shattered_aeons",
+        "name": "重返破碎永世"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_turn_back_time",
+        "name": "重返時間倒流"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_disappearance_at_the_twilight_estate",
+        "name": "重返暮色莊園失蹤事件"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_witching_hour",
+        "name": "重返巫異時刻"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_at_deaths_doorstep",
+        "name": "重返死亡門前"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_secret_name",
+        "name": "重返隱密之名"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_the_wages_of_sin",
+        "name": "重返惡罪報應"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_for_the_greater_good",
+        "name": "重返崇高利益"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_union_and_disillusion",
+        "name": "重返聚合幻滅"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_in_the_clutches_of_chaos",
+        "name": "重返混沌魔掌"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "return_to_before_the_black_throne",
+        "name": "重返黑色王座"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "curse_of_the_rougarou",
+        "name": "狼人詛咒"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "carnevale_of_horrors",
+        "name": "恐怖狂歡節"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_labyrinths_of_lunacy",
+        "name": "The Labyrinths of Lunacy"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_eternal_slumber",
+        "name": "永恆沉睡"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_nights_usurper",
+        "name": "夜之亂臣"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "murder_at_the_excelsior_hotel",
+        "name": "艾肖希爾酒店謀殺案"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_blob_that_ate_everything",
+        "name": "吞噬萬物"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "war_of_the_outer_gods",
+        "name": "外神之戰"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "machinations_through_time",
+        "name": "時間騙局"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "fortune_and_folly",
+        "name": "時運與愚行"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_midwinter_gala",
+        "name": "The Midwinter Gala"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "the_blob_that_ate_everything_else",
+        "name": "The Blob That Ate Everything Else"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "film_fatale"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "read_or_die",
+        "name": "死亡閱讀"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "all_or_nothing",
+        "name": "孤注一擲"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "bad_blood",
+        "name": "血業輪迴"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "by_the_book",
+        "name": "照章行事"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "red_tide_rising",
+        "name": "赤潮升湧"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "laid_to_rest",
+        "name": "安魂鎮息"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "relics_of_the_past",
+        "name": "Relics of the Past"
+    },
+    {
+        "campaign_guide_location": 1,
+        "code": "enthralling_encore"
+    }
+]

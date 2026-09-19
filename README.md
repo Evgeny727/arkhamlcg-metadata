@@ -11,3 +11,30 @@ npm run fmt
 ```
 
 _Requires Node.js._
+
+# Translations
+
+Translation files are kept in `./translations`. Right now, only campaigns and scenarios are translatable.
+
+```text
+translations/
+    de/
+        campaigns.json
+        scenarios.json
+```
+
+Each file contains translated field overrides keyed by the entity `code`. The
+English source data remains in `campaigns/campaigns.json` and
+`scenarios/scenarios.json`.
+
+Run the translation import to retrieve campaign names from translated cycles
+and scenario names from translated encounter sets in
+`Kamalisk/arkhamdb-json-data`:
+
+```sh
+npm run import:translations
+```
+
+New scenario translations start at campaign guide page `1`, which needs to be adjusted to match
+the localized campaign guide. The import only fills missing fields and preserves adjusted translated names, page
+numbers, guide URLs, and rules insert URLs.

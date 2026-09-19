@@ -1,0 +1,38 @@
+[
+    {
+        "code": "dwl",
+        "name": "El legado de Dunwich"
+    },
+    {
+        "code": "ptc",
+        "name": "El camino a Carcosa"
+    },
+    {
+        "code": "tfa",
+        "name": "La era olvidada"
+    },
+    {
+        "code": "tcu",
+        "name": "El círculo roto"
+    },
+    {
+        "code": "tic",
+        "name": "La conspiración de Innsmouth"
+    },
+    {
+        "code": "eoe",
+        "name": "Los confines de la Tierra"
+    },
+    {
+        "code": "tsk",
+        "name": "Las llaves escarlata"
+    },
+    {
+        "code": "fhv",
+        "name": "La fiesta del Valle de la Cicuta"
+    },
+    {
+        "code": "tdc",
+        "name": "La ciudad sumergida"
+    }
+]

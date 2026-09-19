@@ -1,0 +1,38 @@
+[
+    {
+        "code": "dwl",
+        "name": "L'Héritage de Dunwich"
+    },
+    {
+        "code": "ptc",
+        "name": "La Route de Carcosa"
+    },
+    {
+        "code": "tfa",
+        "name": "La Civilisation Oubliée"
+    },
+    {
+        "code": "tcu",
+        "name": "Le Cercle Brisé"
+    },
+    {
+        "code": "tic",
+        "name": "La Conspiration d'Innsmouth"
+    },
+    {
+        "code": "eoe",
+        "name": "Aux Confins de la Terre"
+    },
+    {
+        "code": "tsk",
+        "name": "Les Clefs Écarlates"
+    },
+    {
+        "code": "fhv",
+        "name": "Le Festin de Hemlock Vale"
+    },
+    {
+        "code": "tdc",
+        "name": "La Cité Engloutie"
+    }
+]

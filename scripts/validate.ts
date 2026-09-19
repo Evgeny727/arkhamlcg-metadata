@@ -1,13 +1,14 @@
-import { readdirSync, readFileSync } from "node:fs";
+import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { join, relative } from "node:path";
 import { fileURLToPath } from "node:url";
 import { type ZodType, z } from "zod";
-
 import { campaignSchema } from "../schemas/campaign.schema.ts";
+import { campaignTranslationSchema } from "../schemas/campaign-translation.schema.ts";
 import { errataSchema } from "../schemas/errata.schema.ts";
 import { faqSchema } from "../schemas/faq.schema.ts";
 import { grimoireSchema } from "../schemas/grimoire.schema.ts";
 import { scenarioSchema } from "../schemas/scenario.schema.ts";
+import { scenarioTranslationSchema } from "../schemas/scenario-translation.schema.ts";
 
 const projectRoot = fileURLToPath(new URL("..", import.meta.url));
 
@@ -25,6 +26,16 @@ function jsonFiles(directory: string, excludedFiles: string[] = []): string[] {
         .sort();
 }
 
+function translationFiles(fileName: string): string[] {
+    const translationsPath = join(projectRoot, "translations");
+
+    return readdirSync(translationsPath, { withFileTypes: true })
+        .filter((entry) => entry.isDirectory())
+        .map((entry) => join(translationsPath, entry.name, fileName))
+        .filter((file) => existsSync(file))
+        .sort();
+}
+
 const datasets: Array<{ schema: ZodType; files: string[] }> = [
     {
         files: [join(projectRoot, "campaigns/campaigns.json")],
@@ -39,6 +50,14 @@ const datasets: Array<{ schema: ZodType; files: string[] }> = [
     {
         files: [join(projectRoot, "scenarios/scenarios.json")],
         schema: scenarioSchema,
+    },
+    {
+        files: translationFiles("campaigns.json"),
+        schema: campaignTranslationSchema,
+    },
+    {
+        files: translationFiles("scenarios.json"),
+        schema: scenarioTranslationSchema,
     },
 ];
 

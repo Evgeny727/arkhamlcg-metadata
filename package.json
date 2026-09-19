@@ -8,6 +8,7 @@
     "private": true,
     "scripts": {
         "fmt": "biome check --write .",
+        "import:translations": "node scripts/import-translations.ts",
         "validate": "node scripts/validate.ts"
     },
     "type": "module"
