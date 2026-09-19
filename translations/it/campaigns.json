@@ -34,5 +34,25 @@
     {
         "code": "tdc",
         "name": "La Città Sommersa"
+    },
+    {
+        "code": "rtnotz",
+        "name": "Ritorno a... La Notte della Zelota"
+    },
+    {
+        "code": "rtdwl",
+        "name": "Ritorno a... L'Eredità di Dunwich"
+    },
+    {
+        "code": "rtptc",
+        "name": "Ritorno a... La Strada per Carcosa"
+    },
+    {
+        "code": "rttfa",
+        "name": "Ritorno a... L'Era Dimenticata"
+    },
+    {
+        "code": "rttcu",
+        "name": "Ritorno a... Il Circolo Spezzato"
     }
 ]

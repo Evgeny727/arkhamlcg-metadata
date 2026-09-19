@@ -91,8 +91,13 @@ async function importTranslations(): Promise<void> {
         `${rawContentUrl}/encounters.json`,
         z.array(remoteNamedEntitySchema),
     );
+    const packs = await fetchJson(
+        `${rawContentUrl}/packs.json`,
+        z.array(remoteNamedEntitySchema),
+    );
     const cyclesByName = groupEntitiesByName(cycles);
     const encountersByName = groupEntitiesByName(encounters);
+    const packsByName = groupEntitiesByName(packs);
     const locales = await fetchLocales();
     const imports: TranslationImport[] = [];
 
@@ -103,6 +108,10 @@ async function importTranslations(): Promise<void> {
         );
         const translatedEncounters = await fetchJson(
             `${rawContentUrl}/translations/${encodeURIComponent(locale)}/encounters.json`,
+            z.array(remoteNamedEntitySchema),
+        );
+        const translatedPacks = await fetchJson(
+            `${rawContentUrl}/translations/${encodeURIComponent(locale)}/packs.json`,
             z.array(remoteNamedEntitySchema),
         );
         const campaignOutputPath = join(
@@ -130,6 +139,8 @@ async function importTranslations(): Promise<void> {
                     campaigns,
                     cyclesByName,
                     translatedCycles,
+                    packsByName,
+                    translatedPacks,
                     existingCampaigns,
                 ),
             );
@@ -224,10 +235,15 @@ function mergeCampaignTranslations(
     campaigns: readonly Campaign[],
     cyclesByName: ReadonlyMap<string, readonly RemoteNamedEntity[]>,
     translatedCycles: readonly RemoteNamedEntity[],
+    packsByName: ReadonlyMap<string, readonly RemoteNamedEntity[]>,
+    translatedPacks: readonly RemoteNamedEntity[],
     existingTranslations: readonly CampaignTranslation[],
 ): CampaignTranslation[] {
     const campaignCodes = new Set(campaigns.map(({ code }) => code));
-    const translatedNamesByCode = uniqueNamesByCode(translatedCycles);
+    const translatedCycleNamesByCode = uniqueNamesByCode(translatedCycles);
+    const translatedPackNamesByCode = uniqueNamesByCode(
+        translatedPacks.filter(({ code }) => campaignCodes.has(code)),
+    );
     const existingByCode = uniqueTranslationsByCode(
         existingTranslations,
         "campaign",
@@ -236,19 +252,17 @@ function mergeCampaignTranslations(
 
     return campaigns.flatMap((campaign) => {
         const existing = existingByCode.get(campaign.code);
-        const matches = cyclesByName.get(normalizeName(campaign.name)) ?? [];
-
-        if (matches.length > 1) {
-            throw new Error(
-                `Campaign name matches multiple cycles: ${campaign.name}`,
-            );
-        }
-
-        const cycle = matches.at(0);
+        const cycle = matchingCampaignEntity(campaign, cyclesByName, "cycles");
+        const pack =
+            cycle === undefined
+                ? matchingCampaignEntity(campaign, packsByName, "packs")
+                : undefined;
         const translatedName =
             cycle === undefined
-                ? undefined
-                : translatedNamesByCode.get(cycle.code);
+                ? pack === undefined
+                    ? undefined
+                    : translatedPackNamesByCode.get(pack.code)
+                : translatedCycleNamesByCode.get(cycle.code);
 
         if (translatedName === undefined && existing === undefined) {
             return [];
@@ -266,6 +280,22 @@ function mergeCampaignTranslations(
             },
         ];
     });
+}
+
+function matchingCampaignEntity(
+    campaign: Campaign,
+    entitiesByName: ReadonlyMap<string, readonly RemoteNamedEntity[]>,
+    entityName: string,
+): RemoteNamedEntity | undefined {
+    const matches = entitiesByName.get(normalizeName(campaign.name)) ?? [];
+
+    if (matches.length > 1) {
+        throw new Error(
+            `Campaign name matches multiple ${entityName}: ${campaign.name}`,
+        );
+    }
+
+    return matches.at(0);
 }
 
 function mergeScenarioTranslations(

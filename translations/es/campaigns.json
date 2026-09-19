@@ -34,5 +34,29 @@
     {
         "code": "tdc",
         "name": "La ciudad sumergida"
+    },
+    {
+        "code": "cob",
+        "name": "Vástagos de la sangre"
+    },
+    {
+        "code": "rtnotz",
+        "name": "Regreso a La noche de la fanática"
+    },
+    {
+        "code": "rtdwl",
+        "name": "Regreso a El legado de Dunwich"
+    },
+    {
+        "code": "rtptc",
+        "name": "Regreso a El camino a Carcosa"
+    },
+    {
+        "code": "rttfa",
+        "name": "Regreso a La era olvidada"
+    },
+    {
+        "code": "rttcu",
+        "name": "Regreso a El círculo roto"
     }
 ]

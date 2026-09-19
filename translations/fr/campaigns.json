@@ -34,5 +34,25 @@
     {
         "code": "tdc",
         "name": "La Cité Engloutie"
+    },
+    {
+        "code": "rtnotz",
+        "name": "Renouveau – La Nuit de la Zélatrice"
+    },
+    {
+        "code": "rtdwl",
+        "name": "Renouveau – L'Héritage de Dunwich"
+    },
+    {
+        "code": "rtptc",
+        "name": "Renouveau – La Route de Carcosa"
+    },
+    {
+        "code": "rttfa",
+        "name": "Renouveau – La Civilisation Oubliée"
+    },
+    {
+        "code": "rttcu",
+        "name": "Renouveau – Le Cercle Brisé"
     }
 ]

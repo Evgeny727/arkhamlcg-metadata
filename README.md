@@ -27,9 +27,7 @@ Each file contains translated field overrides keyed by the entity `code`. The
 English source data remains in `campaigns/campaigns.json` and
 `scenarios/scenarios.json`.
 
-Run the translation import to retrieve campaign names from translated cycles
-and scenario names from translated encounter sets in
-`Kamalisk/arkhamdb-json-data`:
+Run the translation import to infer campaign and scenario names from `Kamalisk/arkhamdb-json-data`:
 
 ```sh
 npm run import:translations

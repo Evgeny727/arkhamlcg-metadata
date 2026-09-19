@@ -34,5 +34,25 @@
     {
         "code": "tdc",
         "name": "The Drowned City"
+    },
+    {
+        "code": "rtnotz",
+        "name": "重返狂熱之夜"
+    },
+    {
+        "code": "rtdwl",
+        "name": "重返敦威治遺產"
+    },
+    {
+        "code": "rtptc",
+        "name": "重返卡爾克薩之路"
+    },
+    {
+        "code": "rttfa",
+        "name": "重返失落的時代"
+    },
+    {
+        "code": "rttcu",
+        "name": "重返萬象無終"
     }
 ]

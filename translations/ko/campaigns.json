@@ -34,5 +34,25 @@
     {
         "code": "tdc",
         "name": "The Drowned City"
+    },
+    {
+        "code": "rtnotz",
+        "name": "돌아온 광신도의 밤"
+    },
+    {
+        "code": "rtdwl",
+        "name": "돌아온 던위치의 유산"
+    },
+    {
+        "code": "rtptc",
+        "name": "돌아온 카르코사로 가는 길"
+    },
+    {
+        "code": "rttfa",
+        "name": "돌아온 잊힌 시대"
+    },
+    {
+        "code": "rttcu",
+        "name": "돌아온 끝맺지 못한 의식"
     }
 ]

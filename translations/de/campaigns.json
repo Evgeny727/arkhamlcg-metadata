@@ -34,5 +34,25 @@
     {
         "code": "tdc",
         "name": "Die Versunkene Stadt"
+    },
+    {
+        "code": "rtnotz",
+        "name": "Rückkehr zu: Die Nacht des Zeloten"
+    },
+    {
+        "code": "rtdwl",
+        "name": "Rückkehr zu: Das Vermächtnis von Dunwich"
+    },
+    {
+        "code": "rtptc",
+        "name": "Rückkehr zu: Der Pfad nach Carcosa"
+    },
+    {
+        "code": "rttfa",
+        "name": "Rückkehr zu: Das vergessene Zeitalter"
+    },
+    {
+        "code": "rttcu",
+        "name": "Rückkehr zu: Der gebrochene Kreis"
     }
 ]

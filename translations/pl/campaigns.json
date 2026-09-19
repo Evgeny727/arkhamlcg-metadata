@@ -34,5 +34,25 @@
     {
         "code": "tdc",
         "name": "Zatopione Miasto"
+    },
+    {
+        "code": "rtnotz",
+        "name": "Powrót Nocy fanatyka"
+    },
+    {
+        "code": "rtdwl",
+        "name": "Powrót Dziedzictwa Dunwich"
+    },
+    {
+        "code": "rtptc",
+        "name": "Powrót Szlaku do Carcosy"
+    },
+    {
+        "code": "rttfa",
+        "name": "Powrót Zapomnianej ery"
+    },
+    {
+        "code": "rttcu",
+        "name": "Powrót Przerwanego kręgu"
     }
 ]

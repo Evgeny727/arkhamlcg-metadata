@@ -34,5 +34,25 @@
     {
         "code": "tdc",
         "name": "The Drowned City"
+    },
+    {
+        "code": "rtnotz",
+        "name": "Return to the Night of the Zealot"
+    },
+    {
+        "code": "rtdwl",
+        "name": "Return to the Dunwich Legacy"
+    },
+    {
+        "code": "rtptc",
+        "name": "Return to the Path to Carcosa"
+    },
+    {
+        "code": "rttfa",
+        "name": "Return to the Forgotten Age"
+    },
+    {
+        "code": "rttcu",
+        "name": "Return to the Circle Undone"
     }
 ]
