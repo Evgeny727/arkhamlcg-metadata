@@ -1,6 +1,6 @@
 [
     {
-        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/8d/30/8d308b73-92f1-4b1e-aa7f-ce39e8d79786/night_of_the_zealot_campaign_guide.pdf",
+        "campaign_guide_url": "https://guides.arkham.build/en/night_of_the_zealot_campaign_guide.pdf",
         "code": "core",
         "cycle_code": "core",
         "name": "Night of the Zealot",
@@ -11,7 +11,7 @@
         ]
     },
     {
-        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/2e/2e/2e2e9b07-e5e4-4538-8d04-b009e20efb50/ahc66_campaign_guide_v6-compressed.pdf",
+        "campaign_guide_url": "https://guides.arkham.build/en/ahc66_campaign_guide_v6-compressed.pdf",
         "code": "dwl",
         "cycle_code": "dwl",
         "name": "The Dunwich Legacy",
@@ -27,7 +27,7 @@
         ]
     },
     {
-        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/58/cd/58cd918c-fdd0-4cee-99df-eb9b5fd43c13/ahc68_campaign_guide_v4-compressed.pdf",
+        "campaign_guide_url": "https://guides.arkham.build/en/ahc68_campaign_guide_v4-compressed.pdf",
         "code": "ptc",
         "cycle_code": "ptc",
         "name": "The Path to Carcosa",
@@ -43,7 +43,7 @@
         ]
     },
     {
-        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/2c/08/2c081137-f89f-4c53-b432-a513eecc466e/ahc73_campaign_guide_v2-compressed.pdf",
+        "campaign_guide_url": "https://guides.arkham.build/en/ahc73_campaign_guide_v2-compressed.pdf",
         "code": "tfa",
         "cycle_code": "tfa",
         "name": "The Forgotten Age",
@@ -61,7 +61,7 @@
         ]
     },
     {
-        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/7f/d8/7fd88e9d-a98d-42f9-9d15-56d4de0ac811/ahc75_campaign_guide-compressed.pdf",
+        "campaign_guide_url": "https://guides.arkham.build/en/ahc75_campaign_guide-compressed.pdf",
         "code": "tcu",
         "cycle_code": "tcu",
         "name": "The Circle Undone",
@@ -78,7 +78,7 @@
         ]
     },
     {
-        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/32/db/32db52a4-73af-41c7-9a2c-56351115148e/ahc79_campaign_guide_a-web.pdf",
+        "campaign_guide_url": "https://guides.arkham.build/en/ahc79_campaign_guide_a-web.pdf",
         "code": "tde_a",
         "cycle_code": "tde",
         "name": "The Dream-Quest",
@@ -90,7 +90,7 @@
         ]
     },
     {
-        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/21/d0/21d09986-923e-4137-9d61-8f37c51ff242/ahc79_campaign_guide_b-web.pdf",
+        "campaign_guide_url": "https://guides.arkham.build/en/ahc79_campaign_guide_b-web.pdf",
         "code": "tde_b",
         "cycle_code": "tde",
         "name": "The Web of Dreams",
@@ -102,7 +102,7 @@
         ]
     },
     {
-        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/9d/71/9d71f59e-6ca6-469c-b00a-0a7c6d27b148/ahc82_campaign_guide-web_1.pdf",
+        "campaign_guide_url": "https://guides.arkham.build/en/ahc82_campaign_guide-web_1.pdf",
         "code": "tic",
         "cycle_code": "tic",
         "name": "The Innsmouth Conspiracy",
@@ -118,7 +118,7 @@
         ]
     },
     {
-        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/3f/b5/3fb51dbf-2508-4a28-bf7d-fed5fea4905e/ahc64_edge_of_the_earth_campaign_guide-compressed.pdf",
+        "campaign_guide_url": "https://guides.arkham.build/en/ahc64_edge_of_the_earth_campaign_guide-compressed.pdf",
         "code": "eoe",
         "cycle_code": "eoe",
         "name": "Edge of the Earth",
@@ -134,7 +134,7 @@
         ]
     },
     {
-        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/f0/f9/f0f98966-1063-420c-8e31-4d95f0142aa2/ahc70_the_scarlet_keys_campaign_guide-compressed.pdf",
+        "campaign_guide_url": "https://guides.arkham.build/en/ahc70_the_scarlet_keys_campaign_guide-compressed.pdf",
         "code": "tsk",
         "cycle_code": "tsk",
         "name": "The Scarlet Keys",
@@ -152,7 +152,7 @@
         ]
     },
     {
-        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/5e/db/5edb4588-8583-4dc8-941c-26e1b7cfba56/ahc77_campaign_guide_web-compressed.pdf",
+        "campaign_guide_url": "https://guides.arkham.build/en/ahc77_campaign_guide_web-compressed.pdf",
         "code": "fhv",
         "cycle_code": "fhv",
         "name": "The Feast of Hemlock Vale",
@@ -172,7 +172,7 @@
         ]
     },
     {
-        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/c1/3b/c13b0e74-62bb-49bc-bc85-036ab9d1ef10/ahc84_campaign_guide-web_1.pdf",
+        "campaign_guide_url": "https://guides.arkham.build/en/ahc84_campaign_guide-web_1.pdf",
         "code": "tdc",
         "cycle_code": "tdc",
         "name": "The Drowned City",
@@ -190,21 +190,21 @@
         ]
     },
     {
-        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/f0/22/f022ac7c-9c30-4521-ac16-1f74f00e1d31/ahc100_campaign_guide-web.pdf",
+        "campaign_guide_url": "https://guides.arkham.build/en/ahc100_campaign_guide-web.pdf",
         "code": "core_ch2",
         "cycle_code": "core_ch2",
         "name": "Brethren of Ash",
         "scenarios": ["spreading_flames", "smoke_and_mirrors", "queen_of_ash"]
     },
     {
-        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/a8/9c/a89c98b9-9de4-4b6c-8110-80fedbdcdb60/ahc106_campaign_guide-web.pdf",
+        "campaign_guide_url": "https://guides.arkham.build/en/ahc106_campaign_guide-web.pdf",
         "code": "cob",
         "cycle_code": "small_campaign_expansions",
         "name": "Children of Blood",
         "scenarios": ["river_of_blood", "new_horizons", "blood_money"]
     },
     {
-        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/d4/64/d4646915-30d8-49a4-9d90-95be8f15b69f/ahc26_rules_insert.pdf",
+        "campaign_guide_url": "https://guides.arkham.build/en/ahc26_rules_insert.pdf",
         "code": "rtnotz",
         "cycle_code": "return",
         "name": "Return to The Night of the Zealot",
@@ -216,7 +216,7 @@
         "variant_of_code": "core"
     },
     {
-        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/8d/bb/8dbbd753-6086-4760-a3a6-d7b9234e2313/return_to_the_dunwich_legacy_rules.pdf",
+        "campaign_guide_url": "https://guides.arkham.build/en/return_to_the_dunwich_legacy_rules.pdf",
         "code": "rtdwl",
         "cycle_code": "return",
         "name": "Return to The Dunwich Legacy",
@@ -233,7 +233,7 @@
         "variant_of_code": "dwl"
     },
     {
-        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/51/7e/517e98cc-7a54-42e8-96f0-bb600f240d9f/ahc36_rules_insert.pdf",
+        "campaign_guide_url": "https://guides.arkham.build/en/ahc36_rules_insert.pdf",
         "code": "rtptc",
         "cycle_code": "return",
         "name": "Return to The Path to Carcosa",
@@ -250,7 +250,7 @@
         "variant_of_code": "ptc"
     },
     {
-        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/78/89/78897328-d162-4d5a-9f02-2fe1e3a19993/ahc46_rules_insert.pdf",
+        "campaign_guide_url": "https://guides.arkham.build/en/ahc46_rules_insert.pdf",
         "code": "rttfa",
         "cycle_code": "return",
         "name": "Return to The Forgotten Age",
@@ -269,7 +269,7 @@
         "variant_of_code": "tfa"
     },
     {
-        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/98/92/98925ac3-c087-4833-9081-9b03372f6362/ahc61_rules_insert_v2.pdf",
+        "campaign_guide_url": "https://guides.arkham.build/en/ahc61_rules_insert_v2.pdf",
         "code": "rttcu",
         "cycle_code": "return",
         "name": "Return to The Circle Undone",
