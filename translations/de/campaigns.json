@@ -1,65 +1,91 @@
 [
     {
+        "campaign_guide_url": "https://guides.arkham.build/de/scenarios/01%20-%20Die%20Nacht%20des%20Zeloten.pdf",
         "code": "core",
         "name": "Die Nacht des Zeloten"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/de/scenarios/02%20-%20Das%20Verma%CC%88chtnis%20von%20Dunwich.pdf",
         "code": "dwl",
         "name": "Das Vermächtnis von Dunwich"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/de/scenarios/03%20-%20Der%20Pfad%20nach%20Carcosa.pdf",
         "code": "ptc",
         "name": "Der Pfad nach Carcosa"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/de/scenarios/04%20-%20Das%20vergessene%20Zeitalter.pdf",
         "code": "tfa",
         "name": "Das vergessene Zeitalter"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/de/scenarios/05%20-%20Der%20gebrochene%20Kreis.pdf",
         "code": "tcu",
         "name": "Der gebrochene Kreis"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/de/scenarios/06%20-%20Die%20Traumfresser%20-%20A.pdf",
+        "code": "tde_a",
+        "name": "Die Traumsuche"
+    },
+    {
+        "campaign_guide_url": "https://guides.arkham.build/de/scenarios/06%20-%20Die%20Traumfresser%20-%20B.pdf",
+        "code": "tde_b",
+        "name": "Das Netz der Träume"
+    },
+    {
+        "campaign_guide_url": "https://guides.arkham.build/de/scenarios/07%20-%20Die%20Innsmouth-Verschwo%CC%88rung.pdf",
         "code": "tic",
         "name": "Die Innsmouth-Verschwörung"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/de/scenarios/08%20-%20Am%20Rande%20der%20Welt.pdf",
         "code": "eoe",
         "name": "Am Rande der Welt"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/de/scenarios/09%20-%20Die%20scharlachroten%20Schlu%CC%88ssel.pdf",
         "code": "tsk",
         "name": "Die scharlachroten Schlüssel"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/de/scenarios/10%20-%20Das%20Fest%20von%20Hemlock%20Vale.pdf",
         "code": "fhv",
         "name": "Das Fest von Hemlock Vale"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/de/scenarios/11%20-%20Die%20versunkene%20Stadt.pdf",
         "code": "tdc",
         "name": "Die Versunkene Stadt"
     },
     {
-        "code": "boa",
+        "campaign_guide_url": "https://guides.arkham.build/de/scenarios/12%20-%20Bruderschaft%20der%20Asche.pdf",
+        "code": "core_ch2",
         "name": "Bruderschaft der Asche"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/de/scenarios/01%20-%20Die%20Nacht%20des%20Zeloten%20-%20Ru%CC%88ckkehr.pdf",
         "code": "rtnotz",
         "name": "Rückkehr zu: Die Nacht des Zeloten"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/de/scenarios/02%20-%20Das%20Verma%CC%88chtnis%20von%20Dunwich%20-%20Ru%CC%88ckkehr.pdf",
         "code": "rtdwl",
         "name": "Rückkehr zu: Das Vermächtnis von Dunwich"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/de/scenarios/03%20-%20Der%20Pfad%20nach%20Carcosa%20-%20Ru%CC%88ckkehr.pdf",
         "code": "rtptc",
         "name": "Rückkehr zu: Der Pfad nach Carcosa"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/de/scenarios/04%20-%20Das%20vergessene%20Zeitalter%20-%20Ru%CC%88ckkehr.pdf",
         "code": "rttfa",
         "name": "Rückkehr zu: Das vergessene Zeitalter"
     },
     {
+        "campaign_guide_url": "https://guides.arkham.build/de/scenarios/05%20-%20Der%20gebrochene%20Kreis%20-%20Ru%CC%88ckkehr.pdf",
         "code": "rttcu",
         "name": "Rückkehr zu: Der gebrochene Kreis"
     }
