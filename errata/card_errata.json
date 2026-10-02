@@ -163,6 +163,11 @@
     {
         "card_codes": [
             "03061",
+            "03065b",
+            "03066b",
+            "03067b",
+            "03068b",
+            "03069b",
             "03097",
             "03160",
             "03168",
@@ -185,7 +190,9 @@
             "03096",
             "03182b",
             "03184",
-            "03258"
+            "03258",
+            "52023",
+            "52024"
         ],
         "citation": "faq-2.0",
         "ruling": "The \"[[Lunatic]]\" trait on this card should read \"[[Possessed]]\", instead.",
@@ -300,7 +307,7 @@
         "type": "card_errata"
     },
     {
-        "card_codes": ["04127"],
+        "card_codes": ["04270"],
         "citation": "faq-1.41",
         "ruling": "This card's [action] ability should read: \"If The Skeleton Key is in your play area, attach it to your location...\"",
         "type": "card_errata"
@@ -660,7 +667,7 @@
         "type": "card_errata"
     },
     {
-        "card_codes": ["11691a"],
+        "card_codes": ["11691b"],
         "citation": "faq-2.4",
         "ruling": "The first sentence on the back of this agenda should read: \"If this agenda advanced by reaching its doom threshold, each investigator is defeated. Otherwise...\"",
         "type": "card_errata"
