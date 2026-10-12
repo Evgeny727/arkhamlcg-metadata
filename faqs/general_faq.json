@@ -75,7 +75,7 @@
     {
         "card_codes": ["01004", "01504", "01060", "01560", "02154", "02306"],
         "citation": "faq-1.0",
-        "question": "When I attack using [Shrivelling](/card/01060) and reveal a [skull], [cultist], [tablet], [elder_thing], or auto_fail] symbol, when do I take horror?",
+        "question": "When I attack using [Shrivelling](/card/01060) and reveal a [skull], [cultist], [tablet], [elder_thing], or [auto_fail] symbol, when do I take horror?",
         "ruling": "You would take horror immediately as you reveal the symbol, during \"ST.3 Reveal chaos token\" (\"Skill Test Timing, Rules Reference). If you had any reactions to taking that horror (such as [Agnes Baker](/card/01004)'s ability), you would trigger it then, before resolving the rest of the attack.",
         "type": "faq"
     },
