@@ -1,1 +1,100 @@
-[]
+[
+    {
+        "card_codes": ["04037", "53011", "10109"],
+        "question": "Can \"up to X\" include 0 by choice? For example: if I play and trigger [Backpack](/card/04037) to search for [[Item]] or [[Supply]] cards, and all I find is a [Pelt Shipment](/card/10109), can I choose to NOT attach it to Backpack (i.e. \"up to 3\" = 0)?\nBackpack (level 0) states \"[reaction] After Backpack enters play: Search the top 6 cards of your deck for up to 3 non-weakness [[Item]] or [[Supply]] cards, and attach them facedown to Backpack. Shuffle your deck.\" The Rules Reference for 'Search' states \"When resolving a search effect, a player is obligated to find the object of the search should one or more eligible options be found within the searched area.\"",
+        "ruling": "No. The rules of search state that the player is obligated to find the object of the search if an option is available in the searched area, indicating that if such an object was found, it must be used to fulfill the rest of the ability. Since Backpack's ability is a search ability, so long as 1 [[Item]] or [[Supply]] is found, that 1 card must be attached to Backpack.",
+        "date": "2025-07-19",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["11064"],
+        "question": "[Gatling Gun](/card/11064) has an effect that replaces the standard damage dealt by it, but there is no provision that this effect is only supposed to apply if the test is successful nor there is any alternative instruction on how to handle the situation where the test fails while the target is engaged with another investigator. From my understanding a literal interpretation of the text would lead to the conclusion that, upon failing the test, instead of dealing the standard damage to the investigator engaged with the target, you deal damage equal to the ammo spent to enemies at your location. That doesn't seem to be the intent of the card, however I can't really figure out what is in fact supposed to do in that situation. Could you provide some clarifications?",
+        "ruling": "If the investigator using Gatling Gun targets an enemy engaged with a different investigator and fails the test, that investigator deals 1 damage to the other investigator. The intention is that the replacement of the “standard damage” only apply during a successful test.",
+        "date": "2025-08-05",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["09679a", "09680a", "05032", "05280"],
+        "question": "Are the Keys in 'The Scarlet Keys' encounter cards or player cards? If [Tzu San Niang](/card/09679a) shifts her [Shade Reaper](/card/09680a) which will cause me to lose an action, can I play [Deny Existence](/card/05032)? If my teammate shifts their Shade Reaper from its [[Unstable]] side to [[Stable]] side, can I play Deny Existence?",
+        "ruling": "A \"key\" from The Scarlet Keys changes its cardtype depending on its bearer/controller. If an investigator controls the key, it's considered a player card; if an enemy controls the key, it's considered an encounter card. If an enemy controls and shifts Shade Reaper, an investigator can play Deny Existence.",
+        "date": "2025-11-26",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["11007", "11008", "11010", "10085", "10098", "04032", "11069", "11067"],
+        "question": "How does [[Agatha Crane](/card/11007)'s signature weakness, [Glimpse the Void](/card/11010)] interact with cards that can reveal more chaos tokens (and even ignore some of them) during a skill test, like [Rod of Carnamagos](/card/10085), [Dark Prophecy](/card/04032), [Katarina Sojka](/card/11069), [Eyes of the Dreamer](/card/11067), etc? To be specific, Glimpse the Void says \"resolve its effect\", so what can it do with the chaos tokens revealed by Rod of Carnamagos during the [fast] player windows before or after ST.2? And does the additional chaos token revealed during ST.3 still resolve its effect if I choose to ignore it with Dark Prophecy or Eyes of the Dreamer? When I would reveal an additional token because of Glimpse the Void's effect during ST.3, can I use Katarina Sojka's reaction ability to ignore that chaos token and resolve just one token with a symbol?",
+        "ruling": "Glimpse the Void essentially has you reveal and resolve 1 additional token on top of any you would normally reveal/resolve for that test or effect. If Glimpse the Void causes you to reveal 2 tokens for a skill test, Katarina Sojka can target 1 of them to replace with a symbol, and that token plus the token from Glimpse are resolved.\nIf you trigger Eyes of the Dreamer while you have Glimpse the Void, the token from Glimpse is separate from the tokens revealed via Eyes, as it is not \"chosen\" nor \"ignored\" per Eyes' ability. You resolve it separate from Eyes' ability.\nIf you use Rod of Carnamagos while you have Glimpse the Void, you will reveal an additional token only; since you don't \"resolve\" the tokens revealed via Rod, you don't resolve the token revealed via Glimpse. ",
+        "date": "2025-11-26",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["08076"],
+        "question": "My deck contains two copies of a customizable card, they are level 2 (because I have 4 check marks on my customizable sheet). During a scenario, I exiled one copy of them with [Burn After Reading](/card/08076). Will this affect anything about the other copy that is not exiled or my customizable sheet?\n",
+        "ruling": "To add a second copy of a customizable card to your deck, you either pay experience equal to the card's level as indicated by its upgrade sheet, or you purchase an upgrade on the upgrade sheet and add the new copy to your deck for free. In the case of removing all copies of a customizable card from your deck, the upgrades sheet would be cleared and the experience invested would be lost; but if you remove just one of two copies of a customizable card from your deck, the removed copy would still share the same upgrade sheet as the version still in your deck.",
+        "date": "2025-11-26",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["05159", "08059", "04201", "60519", "07197"],
+        "question": "Because of the rule of exile, I may purchase level 0 cards with 0 experience cost each to ensure I have a correct deck size. How does this interact with taboo cards, like [Drawing Thin](/card/05159) which asks 3 additional experience to purchase. And how do cards like [Down the Rabbit Hole](/card/08059) interact with this situation? For example, I have one empty slot left in my deck after exile, I want to purchase [Take Heart](/card/04201) while having Down the Rabbit Hole, how much experience should I pay? If I want to purchase Drawing Thin (taboo) without Down the Rabbit Hole, how much experience should I pay? If I want to purchase Drawing Thin (taboo) while having Down the Rabbit Hole, how much experience should I pay? And, if my deck has an empty slot after exiling, if I want to purchase [Signum Crucis](/card/07197) (taboo), how much experience should I pay?",
+        "ruling": "When you have Down the Rabbit Hole and need to purchase cards to maintain legal deck size, you may add level 0 cards to your deck for no additional experience cost until you have reached legal deck size again.\nIf adding a chained level 0 card, Down the Rabbit Hole does not increase that card's experience cost when maintaining legal deck size, but that card's increased experience cost on the taboo list must still be paid.\nIf adding an unchained level 1-5 card to your deck, Down the Rabbit Hole will increase the cost to purchase that card by 1. Purchasing Signum Crucis for your deck would cost a total of 1 experience; it's level 2, unchained to cost -2 experience, and Down the Rabbit Hole adds 1 to this.",
+        "date": "2025-11-26",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["09100", "60531"],
+        "question": "I exiled one copy of [Makeshift Trap](/card/09100) with 4 checkmarks on the section \"Explosive Device\", which makes it a level 2 card. In between scenarios, can I spend 1 experience to put a checkmark on the section \"Improved Timer\" to purchase the exiled copy back? If I have [Déjà Vu](/card/60531), can I just spend 0 experience to put a checkmark on the section \"Improved Timer\" to repurchase it?",
+        "ruling": "When repurchasing an exiled customizable card, you can purchase upgrades on the upgrade sheet to obtain that card and also get a 1XP discount with Déjà Vu.",
+        "date": "2025-11-26",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["90093", "90087"],
+        "question": "[Samuel Blake](/card/90093) states: \"When Samuel Blake is in play, as an additional cost for you to switch your role, you must take 1 horror.\" [Parallel Lola](/card/90087) has a Forced effect that compels her to switch her role every turn. These two effects seem intended to interact with each other. However per the FAQ section on Additional Costs, players do not have to pay additional costs when a Forced effect requires an investigator to resolve an effect.",
+        "ruling": "We will be issuing an update to that rule where Forced effects no longer circumvent paying additional costs. The intention is, when playing Parallel Lola, if Samuel Blake is in play, you must take 1 horror when switching your role each turn.",
+        "date": "2025-12-05",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["10085", "10098", "07120", "07118", "07227"],
+        "question": "Hello, I have a question about whether [Rod of Carnamagos](/card/10085) can be used with [Paradoxical Covenant](/card/07120). If I initiate a skill test and then, during a player window, activate the ability on Rod of Carnamagos to reveal 5 chaos tokens, do those tokens count as having been \"revealed during this skill test\" for the purposes of Paradoxical Covenant?\nFor example, if I reveal both a [bless] and a [curse] while resolving Rod of Carnamagos, can I trigger Paradoxical Covenant after the reveal chaos token step of the skill test, regardless of which tokens are revealed during that step? I am inclined to think that this works, based on the ruling for [Eye of Chaos](/card/07118). I assume the same logic would apply to Paradoxical Covenant, and that the tokens revealed by Rod of Carnamagos are considered to have been revealed during that test. However, I have also seen the opposite interpretation, based on the wording \"after an investigator at your location resolves the 'reveal chaos token' step of a skill test,\" which some interpret as meaning that only tokens revealed during that specific step count. Could you please clarify how this interaction should work?",
+        "ruling": "Yes, tokens revealed via Rod of Carnamagos during a skill test are considered to be revealed during that skill test. If the Rod of Carnamagos reveals a [bless] and/or [curse], those can be used to trigger Paradoxical Covenant. The additional clause on PC establishes the timing for when to trigger its ability, but it does not require the tokens to be revealed during step 3 of the skill test.",
+        "date": "2026-06-29",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["11007", "05316", "05317", "54004"],
+        "question": "If I use [Agatha Crane](/card/11007)'s ability and remove a [Blood-Rite](/card/05317) from the game, then discard [Occult Lexicon](/card/05316) to my discard pile but eventually play Occult Lexicon again, what will happen?",
+        "ruling": "If Agatha Crane uses her ability to play Blood-Rite, then Blood-Rite will be removed from the game, not set aside with other bonded cards. Playing Occult Lexicon afterward would not find any copies of Blood-Rite that have been removed from the game.",
+        "date": "2026-07-10",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["60251", "60256"],
+        "question": "I have a question about the expanded definition of healing introduced in Chapter 2 in the Grimoire: \"Any remaining damage/horror that was not healed is considered to have been healed \"in excess\" of the card's maximum health/sanity\". Does this mean I can use, for example, a horror-healing effect on an investigator who has full sanity in order to trigger abilities that activate after healing horror? For example, gaining a clue with ability of [Carolyn Fern](/card/60251)? Similarly, with [Occult Records](/card/60256), if I heal only 1 horror from an investigator (or 0, if I can), will I perform a [willpower] test, because the excess counts as healing or not, because the \"pre-then aspect of an effect does successfully resolve in full\"?",
+        "ruling": "No, you are not able to use an effect that heals horror on an investigator that is already at their maximum sanity, nor would you be able to trigger new Carolyn Fern's reaction ability if you attempted to heal someone at maximum sanity. As for Occult Records, so long as you healed at least 1 point of horror with the effect, you have satisfied the “pre-then” effect and would have to test your [willpower] afterward. We acknowledge that the second bullet under “Heal” in the Grimoire is misleading and we plan to update it in the future.",
+        "date": "2026-09-17",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["06156", "01001", "01501", "98004", "90024", "08004", "98007", "11014", "98019", "11016"],
+        "question": "The Signature Cards rule in FAQ 2.5 states: \"If a game effect would force a player to take control of a card with another investigator's signature card attached to it, that signature card is discarded.\" Chapter 2's rulebook provides more details: \"If a game effect would force a player to take control of a card with another investigator's signature card attached to it, that effect fails and the signature card is discarded instead.\" I'd like to know if this rule affects [\"Fool me once...\"](/card/06156)?\nIf [Roland](/card/01001) activates [Norman](/card/08004)'s [The Harbinger](/card/08006)'s action-triggered abilities, can Roland play \"Fool me once...\" to attach The Harbinger to it? If Roland draws [Gloria](/card/11014)'s [Prophecy of the End](/card/11016), can he play \"Fool me once...\" to attach Prophecy of the End to it?",
+        "ruling": "The controller of \"Fool me once...\" cannot have another investigator's signature weakness attached to the card. Roland playing \"Fool me once...\" after triggering the ability on The Harbinger or resolving Prophecy of the End will result in \"Fool me once...\" entering play, the signature weakness attaching, and then the signature weakness immediately discarding.",
+        "date": "2026-06-26",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["05235", "10128", "11007", "11008"],
+        "question": "Has there been further clarification on \"After that event resolves, remove it from the game.\"? [Eldritch Tongue](/card/10128) and [De Vermis Mysteriis](/card/05235) seem to have opposite rulings on the same wording, is that still the case? How does it apply to [Agatha Crane](/card/11007)'s ability?",
+        "ruling": "The ruling on De Vermis Mysteriis is outdated. The ruling on Eldritch Tongue is the correct one: for events that attach to other cards when they are played, they are considered \"resolved\" as soon as they attach, meaning they would be removed from the game immediately after attaching. This is the case for De Vermis, Eldritch Tongue, and Agatha Crane's abilities.",
+        "date": "2026-07-14",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["60559", "60555"],
+        "question": "[Pocketknife](/card/60559) lets me initiate a fight using either [combat] or [agility]. [Daniel Jameson](/card/60555) lets me repeat a failed fight test.Can I use a different skill for the repeated test? Let's say I wanted to fail the first test, and I have higher [agility] than [combat]. I initiate the fight using [combat] (According to Skill Test Timing, I determine the Skill Type in step 1 of the Skill Test), fail it, then exhaust Daniel to repeat the test. For the second test I should be able to select different Skill because it has it's own step 1). Do I understand correctly?",
+        "ruling": "Yes; if you fail a test with Pocketknife and trigger Daniel Jameson's ability, you can choose to use the other skill type for the new test.",
+        "date": "2026-06-09",
+        "type": "rules_form_response"
+    }
+]
