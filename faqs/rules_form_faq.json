@@ -7,10 +7,73 @@
         "type": "rules_form_response"
     },
     {
+        "card_codes": ["11615", "11622"],
+        "question": "In Court of the Ancients, the ability on [Great Lift <i>(Active)</i>](/card/11622) reads: \"[reaction] When you successfully investigate this location, instead of discovering clues: Slide Great Lift up or down once. You may spend 1 [per_investigator] clues to slide Great Lift up or down one additional time.\" When you use clues to move Great Lift an additional time does this count as one movement of two spaces or two separate moves of one space each? This is important because of the <b>Forced</b> effect on [Agenda 2a](/card/11615) which reads \"After the Great Lift moves: Each investigator at the Great Lift must test [agility] (2). Each investigator who fails takes 1 damage\". If this is treated as one movement, investigators should do only one test; but if this is treated as two moves, investigators should do two tests.",
+        "ruling": "If The Great Lift slides twice from one investigation, it will trigger the [agility] test on Unstable Foundations twice.",
+        "date": "2025-08-01",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["11007", "11008"],
+        "question": "There is a prior ruling that [Agatha Crane](/card/11007)'s ability cannot be used to play an event that costs an additional action, as unused actions are forfeited before \"when your turn ends\" abilities trigger. However, the new FAQ explains that unused actions are forfeited \"during Step 2.2.2\", which would be after \"when your turn ends\" triggers. Does this mean that the Agatha Crane ruling was overturned, or are actions actually lost before Step 2.2.2? Or is \"when your turn ends\" actually later than I understand it to be?",
+        "ruling": "Yes. After we made the initial ruling, we decided that we wanted a clearly defined point in time in which investigators forfeit their unspent actions, which fell into step 2.2.2., the end of turn. Agatha's ability also triggers at this step, and since the ability starts with \"when\", it triggers at the step's initiation before the investigator forfeits their actions. Therefore, it is possible for Agatha to end her turn with unspent actions and use her ability to play an event requiring an additional action to be spent.",
+        "date": "2025-08-02",
+        "type": "rules_form_response"
+    },
+    {
         "card_codes": ["11064"],
         "question": "[Gatling Gun](/card/11064) has an effect that replaces the standard damage dealt by it, but there is no provision that this effect is only supposed to apply if the test is successful nor there is any alternative instruction on how to handle the situation where the test fails while the target is engaged with another investigator. From my understanding a literal interpretation of the text would lead to the conclusion that, upon failing the test, instead of dealing the standard damage to the investigator engaged with the target, you deal damage equal to the ammo spent to enemies at your location. That doesn't seem to be the intent of the card, however I can't really figure out what is in fact supposed to do in that situation. Could you provide some clarifications?",
         "ruling": "If the investigator using Gatling Gun targets an enemy engaged with a different investigator and fails the test, that investigator deals 1 damage to the other investigator. The intention is that the replacement of the “standard damage” only apply during a successful test.",
         "date": "2025-08-05",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["05156"],
+        "question": "The recent FAQ ruling on forfeiting actions says that you cannot spend actions outside of your turn unless \"explicitly granted.\" Does this mean you can only spend actions that are granted by card abilities outside your turn, or can you spend any actions outside your turn if granted the opportunity? i.e. If I play [Swift Reflexes](/card/05156) outside of my turn, can I activate an asset that costs more than 1 action to trigger, or am I restricted to only spending the 1 action I've been granted?",
+        "ruling": "When you gain an action outside of your turn, you can only spend that one action, even if you have not forfeited your actions for the round. You cannot use Swift Reflexes to activate an ability that costs more than 1 action.",
+        "date": "2025-08-22",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["71050"],
+        "question": "If I draw [Vicious Ambush](/card/71050)), the nearest [[Monster]] is Massive and in my location there is also another investigator, does this enemy only attack me, or I can choose that it attack the other investigator (because it is considered to be engaged with me and the other investigator simultaneously)?",
+        "ruling": "If you draw Vicious Ambush and the nearest [[Monster]] enemy is Massive, that enemy will attack only you.",
+        "date": "2025-10-18",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["10045", "05320"],
+        "question": "If I play [Uncanny Growth](/card/10045), can I trigger the asset [Double, Double](/card/05320) to play Uncanny Growth again as if it was in my hand?",
+        "ruling": "Yes; Uncanny Growth is set aside and not removed from the game, so it can still be played a second time by Double, Double.",
+        "date": "2025-10-21",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["06319", "06320", "06321", "90088", "90089", "90090", "90091", "90092", "90087", "03006", "10079"],
+        "question": "FAQ section (2.21) defines how to treat treacheries like [Restless Journey](/card/06319), where multiple copies of the same card have parentheticals in their titles that behave like subtitles. Should the same apply to events? Specifically, can [Lola](/card/90087) attach [Leading Lady <i>(Femme Fatale)</i>](/card/90090) to [Bewitching](/card/10079), and use it to find other copies of Leading Lady? ",
+        "ruling": "Yes, the parentheticals in the title boxes of the Leading Lady cards are functionally subtitles for those cards, making each a copy of Leading Lady regardless of subtitle. So yes, Bewitching can attach Leading Lady <i>(Femme Fatale)</i> and later search for copies of Leading Lady with different subtitles.",
+        "date": "2025-11-12",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["90049", "90050"],
+        "question": "I am looking for a clarification on [parallel Jim](/card/90049)'s advanced signature asset: [Jim's Trumpet <i>(The Dead Speak)</i>](/card/90050). Is Jim supposed to choose a location (his own or a connecting) and then heal each investigator and [[Ally]] at that location or is this healing every investigator and [[Ally]] at both his location and at each connecting location?",
+        "ruling": "With the advanced Jim's Trumpet, Jim is able to heal investigators and [[Ally]] assets at both his location and each connecting location. ",
+        "date": "2025-11-13",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["11042"],
+        "question": "If I commit two copies of [Quick-Witted](/card/11042) to a single test and one copy is already in my discard pile, can I shuffle all three copies to my deck or only one (the one which was in my discard pile at beginning of the test)?",
+        "ruling": "Yes, in that case you'd shuffle in three copies. At the end of the test, the two committed Quick-Witted cards are placed in the discard pile, then their abilities both resolve, each targeting the other copy as well as the copy that was already in the discard pile.",
+        "date": "2025-11-13",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["08100", "09009"],
+        "question": "When I use abilities on [Eon Chart (4)](/card/08100) or [Grappling Hook](/card/09009), do I have to declare in advance what actions are performed at the moment when I activate these abilities, or can I choose the type of the second action after the first one ends?",
+        "ruling": "For both Eon Chart (4) and Grappling Hook, you may choose the actions you're taking one at a time, resolving one before choosing the next one.",
+        "date": "2025-11-13",
         "type": "rules_form_response"
     },
     {
@@ -21,7 +84,7 @@
         "type": "rules_form_response"
     },
     {
-        "card_codes": ["11007", "11008", "11010", "10085", "10098", "04032", "11069", "11067"],
+        "card_codes": ["11007", "11008", "11010", "10085", "10098", "04032", "60417", "11069", "11067"],
         "question": "How does [[Agatha Crane](/card/11007)'s signature weakness, [Glimpse the Void](/card/11010)] interact with cards that can reveal more chaos tokens (and even ignore some of them) during a skill test, like [Rod of Carnamagos](/card/10085), [Dark Prophecy](/card/04032), [Katarina Sojka](/card/11069), [Eyes of the Dreamer](/card/11067), etc? To be specific, Glimpse the Void says \"resolve its effect\", so what can it do with the chaos tokens revealed by Rod of Carnamagos during the [fast] player windows before or after ST.2? And does the additional chaos token revealed during ST.3 still resolve its effect if I choose to ignore it with Dark Prophecy or Eyes of the Dreamer? When I would reveal an additional token because of Glimpse the Void's effect during ST.3, can I use Katarina Sojka's reaction ability to ignore that chaos token and resolve just one token with a symbol?",
         "ruling": "Glimpse the Void essentially has you reveal and resolve 1 additional token on top of any you would normally reveal/resolve for that test or effect. If Glimpse the Void causes you to reveal 2 tokens for a skill test, Katarina Sojka can target 1 of them to replace with a symbol, and that token plus the token from Glimpse are resolved.\nIf you trigger Eyes of the Dreamer while you have Glimpse the Void, the token from Glimpse is separate from the tokens revealed via Eyes, as it is not \"chosen\" nor \"ignored\" per Eyes' ability. You resolve it separate from Eyes' ability.\nIf you use Rod of Carnamagos while you have Glimpse the Void, you will reveal an additional token only; since you don't \"resolve\" the tokens revealed via Rod, you don't resolve the token revealed via Glimpse. ",
         "date": "2025-11-26",
@@ -49,10 +112,66 @@
         "type": "rules_form_response"
     },
     {
+        "card_codes": ["10020", "10033", "05186"],
+        "question": "I have a question concerning the interaction between the assets [Cleaning Kit](/card/10020) and the [Guardian version of the Level 3 .45 Thompson](/card/05186). If I spend a supply on Cleaning Kit as if it is an ammo on the .45 Thompson, would that supply be placed in my resource pool?",
+        "ruling": "Yes; spending ammo from Cleaning Kit \"as if\" it were ammo from .45 Thompson level 3 would result in you placing a resource into your resource pool.",
+        "date": "2025-11-26",
+        "type": "rules_form_response"
+    },
+    {
         "card_codes": ["90093", "90087"],
         "question": "[Samuel Blake](/card/90093) states: \"When Samuel Blake is in play, as an additional cost for you to switch your role, you must take 1 horror.\" [Parallel Lola](/card/90087) has a Forced effect that compels her to switch her role every turn. These two effects seem intended to interact with each other. However per the FAQ section on Additional Costs, players do not have to pay additional costs when a Forced effect requires an investigator to resolve an effect.",
         "ruling": "We will be issuing an update to that rule where Forced effects no longer circumvent paying additional costs. The intention is, when playing Parallel Lola, if Samuel Blake is in play, you must take 1 horror when switching your role each turn.",
         "date": "2025-12-05",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["10027", "08094", "08096", "12028"],
+        "question": "I have a question about section (1.31) in the FAQ. Specifically the language \"An investigator may [...] not voluntarily spend actions outside of their turn unless explicitly granted via a card effect.\" I am wondering about this explicit permission. For example: If my friend takes his turn in the investigation phase before me, plays [Task Force](/card/10027) and chooses me to resolve an action on an asset that costs multiple actions (for example [Sledgehammer](/card/08094)), can I then spend the necessary additional actions for this? Would highly appreciate insight or example for the explicit permission on spending actions outside of your turn.",
+        "ruling": "If another investigator played Task Force and chose you to resolve an [action] ability on an asset you control, you would be able to trigger an [action] ability with a single arrow, as you cannot spend the additional action needed for a [action][action] ability outside of your turn. There is no current example of an ability allowing an investigator to voluntarily spend an action outside of their turn.",
+        "date": "2025-12-05",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["90049", "08127"],
+        "question": "I'd like to build a deck for [Parallel Jim Culver](/card/90049) using [Sled Dog](/card/08127)s. Sled Dog says you can include up to four copies in your deck. (A) Can I include 4 Sled Dog in Jim's Spirit Deck? That is, does the Sled Dog ability override the \"different ally\" deckbuilding of the Spirit Deck? (B) After I've put some number of Sled Dog in the Spirit Deck, can I still put 4 Sled Dog in Jim's regular deck, or do the dog(s) in the spirit deck count towards the same limit of 4?",
+        "ruling": "(A) No; Sled Dog's \"4 copy\" ability only applies to a player deck, not Parallel Jim's Spirit Deck. Only 1 Sled Dog can be in the Spirit Deck. (B) No; Jim's Spirit Deck must be built from the same collection as his player deck, and for the purposes of card effects referencing the collection, a collection can only have 4 copies of Sled Dog in it.",
+        "date": "2026-01-14",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["11069", "08048", "60401", "04032", "60417", "04197", "10097", "60416"],
+        "question": "If I use an ability which reveals chaos tokens \"until\" some condition ([Katarina Sojka](/card/11069), [21 or Bust](/card/08048)) are the tokens revealed in sequence such that I could choose to use a modification ([Jacqueline Fine](/card/60401), [Dark Prophecy](/card/04032), [Olive McBride](/card/04197) before revealing each one? My understanding is that for [Voice of Ra](/card/60416) I would have to pre-declare which of the reveals I am replacing, but I'm less clear for the cases where the reveal seems to happen one at a time.",
+        "ruling": "Yes, an effect that reveals tokens \"until\" a condition is met means those tokens are revealed one at a time, and each of those tokens could be interrupted by an ability like Jacqueline's. This is different from Voice of Ra, where because the 3 tokens are revealed simultaneously, you'd have to \"pre-declare\" which is being replaced by an interrupt ability.",
+        "date": "2026-01-26",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["12015", "12073", "08073"],
+        "question": "Let's say I draw [Breaking Point](/card/12015) while I have 3 remaining sanity and a copy of [Bandages](/card/12073) in play with 3 supplies. As I understand it, each instance of damage from Breaking Point is an independent trigger for Bandages. However, the rules entry for \"Then\" says that the post-then aspect of an effect has timing priority over all other indirect consequences of the pre-then aspect, which includes abilities that trigger \"after\" the pre-then aspect, such as Bandages. How does that pertain to Breaking Point, which has multiple instances of the word \"then\"? Does that mean that all of the healing from Bandages is postponed until the entire effect (3 damage) is resolved?",
+        "ruling": "Breaking Point does deal separate instances of damage, however, because of the way each effect uses \"then\", the sequential damage must all be resolved before responses to any individual instance can be resolved. In practice, if Isabelle Barnes has Bandages in play but 3 or less sanity remaining, she would take 1 damage, then 1 damage, then 1 damage, and only after resolving all of this damage could she trigger Bandages's [reaction] for each instance, healing 1 three times.",
+        "date": "2026-04-09",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["60559", "60555"],
+        "question": "[Pocketknife](/card/60559) lets me initiate a fight using either [combat] or [agility]. [Daniel Jameson](/card/60555) lets me repeat a failed fight test.Can I use a different skill for the repeated test? Let's say I wanted to fail the first test, and I have higher [agility] than [combat]. I initiate the fight using [combat] (According to Skill Test Timing, I determine the Skill Type in step 1 of the Skill Test), fail it, then exhaust Daniel to repeat the test. For the second test I should be able to select different Skill because it has it's own step 1). Do I understand correctly?",
+        "ruling": "Yes; if you fail a test with Pocketknife and trigger Daniel Jameson's ability, you can choose to use the other skill type for the new test.",
+        "date": "2026-06-09",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["06156", "01001", "01501", "98004", "90024", "08004", "98007", "11014", "98019", "11016"],
+        "question": "The Signature Cards rule in FAQ 2.5 states: \"If a game effect would force a player to take control of a card with another investigator's signature card attached to it, that signature card is discarded.\" Chapter 2's rulebook provides more details: \"If a game effect would force a player to take control of a card with another investigator's signature card attached to it, that effect fails and the signature card is discarded instead.\" I'd like to know if this rule affects [\"Fool me once...\"](/card/06156)?\nIf [Roland](/card/01001) activates [Norman](/card/08004)'s [The Harbinger](/card/08006)'s action-triggered abilities, can Roland play \"Fool me once...\" to attach The Harbinger to it? If Roland draws [Gloria](/card/11014)'s [Prophecy of the End](/card/11016), can he play \"Fool me once...\" to attach Prophecy of the End to it?",
+        "ruling": "The controller of \"Fool me once...\" cannot have another investigator's signature weakness attached to the card. Roland playing \"Fool me once...\" after triggering the ability on The Harbinger or resolving Prophecy of the End will result in \"Fool me once...\" entering play, the signature weakness attaching, and then the signature weakness immediately discarding.",
+        "date": "2026-06-26",
+        "type": "rules_form_response"
+    },
+    {
+        "card_codes": ["07197", "08059"],
+        "question": "I have some questions about [Signum Crucis](/card/07197) (taboo). We have previous conflicting rulings regarding the experience cost of this card particularly in combination with [Down the Rabbit Hole](/card/08059), so could you confirm: If I purchase Signum Crucis (taboo) during a campaign, not with Down the Rabbit Hole and not to reach legal deck size, do I need to pay experience points?",
+        "ruling": "The current ruling is, if you purchased a copy of Signum Crucis with its taboo during a campaign (and without any other modifiers in effect), it would cost 0 XP. There was a shift in understanding of how the rule of purchasing a new card costing a minimum of 1 XP would interact with a chained or unchained experience cost, and this is where we have landed.",
+        "date": "2026-06-26",
         "type": "rules_form_response"
     },
     {
@@ -70,20 +189,6 @@
         "type": "rules_form_response"
     },
     {
-        "card_codes": ["60251", "60256"],
-        "question": "I have a question about the expanded definition of healing introduced in Chapter 2 in the Grimoire: \"Any remaining damage/horror that was not healed is considered to have been healed \"in excess\" of the card's maximum health/sanity\". Does this mean I can use, for example, a horror-healing effect on an investigator who has full sanity in order to trigger abilities that activate after healing horror? For example, gaining a clue with ability of [Carolyn Fern](/card/60251)? Similarly, with [Occult Records](/card/60256), if I heal only 1 horror from an investigator (or 0, if I can), will I perform a [willpower] test, because the excess counts as healing or not, because the \"pre-then aspect of an effect does successfully resolve in full\"?",
-        "ruling": "No, you are not able to use an effect that heals horror on an investigator that is already at their maximum sanity, nor would you be able to trigger new Carolyn Fern's reaction ability if you attempted to heal someone at maximum sanity. As for Occult Records, so long as you healed at least 1 point of horror with the effect, you have satisfied the “pre-then” effect and would have to test your [willpower] afterward. We acknowledge that the second bullet under “Heal” in the Grimoire is misleading and we plan to update it in the future.",
-        "date": "2026-09-17",
-        "type": "rules_form_response"
-    },
-    {
-        "card_codes": ["06156", "01001", "01501", "98004", "90024", "08004", "98007", "11014", "98019", "11016"],
-        "question": "The Signature Cards rule in FAQ 2.5 states: \"If a game effect would force a player to take control of a card with another investigator's signature card attached to it, that signature card is discarded.\" Chapter 2's rulebook provides more details: \"If a game effect would force a player to take control of a card with another investigator's signature card attached to it, that effect fails and the signature card is discarded instead.\" I'd like to know if this rule affects [\"Fool me once...\"](/card/06156)?\nIf [Roland](/card/01001) activates [Norman](/card/08004)'s [The Harbinger](/card/08006)'s action-triggered abilities, can Roland play \"Fool me once...\" to attach The Harbinger to it? If Roland draws [Gloria](/card/11014)'s [Prophecy of the End](/card/11016), can he play \"Fool me once...\" to attach Prophecy of the End to it?",
-        "ruling": "The controller of \"Fool me once...\" cannot have another investigator's signature weakness attached to the card. Roland playing \"Fool me once...\" after triggering the ability on The Harbinger or resolving Prophecy of the End will result in \"Fool me once...\" entering play, the signature weakness attaching, and then the signature weakness immediately discarding.",
-        "date": "2026-06-26",
-        "type": "rules_form_response"
-    },
-    {
         "card_codes": ["05235", "10128", "11007", "11008"],
         "question": "Has there been further clarification on \"After that event resolves, remove it from the game.\"? [Eldritch Tongue](/card/10128) and [De Vermis Mysteriis](/card/05235) seem to have opposite rulings on the same wording, is that still the case? How does it apply to [Agatha Crane](/card/11007)'s ability?",
         "ruling": "The ruling on De Vermis Mysteriis is outdated. The ruling on Eldritch Tongue is the correct one: for events that attach to other cards when they are played, they are considered \"resolved\" as soon as they attach, meaning they would be removed from the game immediately after attaching. This is the case for De Vermis, Eldritch Tongue, and Agatha Crane's abilities.",
@@ -91,10 +196,10 @@
         "type": "rules_form_response"
     },
     {
-        "card_codes": ["60559", "60555"],
-        "question": "[Pocketknife](/card/60559) lets me initiate a fight using either [combat] or [agility]. [Daniel Jameson](/card/60555) lets me repeat a failed fight test.Can I use a different skill for the repeated test? Let's say I wanted to fail the first test, and I have higher [agility] than [combat]. I initiate the fight using [combat] (According to Skill Test Timing, I determine the Skill Type in step 1 of the Skill Test), fail it, then exhaust Daniel to repeat the test. For the second test I should be able to select different Skill because it has it's own step 1). Do I understand correctly?",
-        "ruling": "Yes; if you fail a test with Pocketknife and trigger Daniel Jameson's ability, you can choose to use the other skill type for the new test.",
-        "date": "2026-06-09",
+        "card_codes": ["60251", "60256"],
+        "question": "I have a question about the expanded definition of healing introduced in Chapter 2 in the Grimoire: \"Any remaining damage/horror that was not healed is considered to have been healed \"in excess\" of the card's maximum health/sanity\". Does this mean I can use, for example, a horror-healing effect on an investigator who has full sanity in order to trigger abilities that activate after healing horror? For example, gaining a clue with ability of [Carolyn Fern](/card/60251)? Similarly, with [Occult Records](/card/60256), if I heal only 1 horror from an investigator (or 0, if I can), will I perform a [willpower] test, because the excess counts as healing or not, because the \"pre-then aspect of an effect does successfully resolve in full\"?",
+        "ruling": "No, you are not able to use an effect that heals horror on an investigator that is already at their maximum sanity, nor would you be able to trigger new Carolyn Fern's reaction ability if you attempted to heal someone at maximum sanity. As for Occult Records, so long as you healed at least 1 point of horror with the effect, you have satisfied the “pre-then” effect and would have to test your [willpower] afterward. We acknowledge that the second bullet under “Heal” in the Grimoire is misleading and we plan to update it in the future.",
+        "date": "2026-09-17",
         "type": "rules_form_response"
     }
 ]
