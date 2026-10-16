@@ -10,6 +10,7 @@
         "card_codes": ["11615", "11622"],
         "question": "In Court of the Ancients, the ability on [Great Lift <i>(Active)</i>](/card/11622) reads: \"[reaction] When you successfully investigate this location, instead of discovering clues: Slide Great Lift up or down once. You may spend 1 [per_investigator] clues to slide Great Lift up or down one additional time.\" When you use clues to move Great Lift an additional time does this count as one movement of two spaces or two separate moves of one space each? This is important because of the <b>Forced</b> effect on [Agenda 2a](/card/11615) which reads \"After the Great Lift moves: Each investigator at the Great Lift must test [agility] (2). Each investigator who fails takes 1 damage\". If this is treated as one movement, investigators should do only one test; but if this is treated as two moves, investigators should do two tests.",
         "ruling": "If The Great Lift slides twice from one investigation, it will trigger the [agility] test on Unstable Foundations twice.",
+        "scenario_codes": ["court_of_the_ancients"],
         "date": "2025-08-01",
         "type": "rules_form_response"
     },
@@ -78,6 +79,7 @@
     },
     {
         "card_codes": ["09679a", "09680a", "05032", "05280"],
+        "cycles": ["tsk"],
         "question": "Are the Keys in 'The Scarlet Keys' encounter cards or player cards? If [Tzu San Niang](/card/09679a) shifts her [Shade Reaper](/card/09680a) which will cause me to lose an action, can I play [Deny Existence](/card/05032)? If my teammate shifts their Shade Reaper from its [[Unstable]] side to [[Stable]] side, can I play Deny Existence?",
         "ruling": "A \"key\" from The Scarlet Keys changes its cardtype depending on its bearer/controller. If an investigator controls the key, it's considered a player card; if an enemy controls the key, it's considered an encounter card. If an enemy controls and shifts Shade Reaper, an investigator can play Deny Existence.",
         "date": "2025-11-26",
