@@ -15,7 +15,7 @@ export const faqSchema = z.strictObject({
     .array(z.string())
     .optional()
     .describe("Codes of scenarios relevant to the question."),
-  type: z.literal("faq").describe("Identifies a frequently asked question."),
+  type: z.enum(["faq", "rules-form"]).describe("Identifies an FAQ or a rules form answer."),
 });
 
 export type Faq = z.infer<typeof faqSchema>;
