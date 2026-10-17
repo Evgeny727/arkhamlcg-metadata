@@ -707,125 +707,107 @@
         "code": "the_eternal_slumber",
         "name": "Беспробудный сон",
         "rules_insert_url": "https://guides.arkham.build/ru/scenarios/AHC27_Rules.pdf"
-    
     },
     {
         "campaign_guide_location": null,
         "code": "the_nights_usurper",
         "name": "Узурпатор ночи",
         "rules_insert_url": "https://guides.arkham.build/ru/scenarios/AHC27_Rules.pdf"
-    
     },
     {
         "campaign_guide_location": null,
         "code": "murder_at_the_excelsior_hotel",
         "name": "Убийство в отеле «Эксельсиор»",
         "rules_insert_url": "https://guides.arkham.build/ru/scenarios/murder_at_the_excelsior_hotel_rules.pdf"
-    
     },
     {
         "campaign_guide_location": null,
         "code": "the_blob_that_ate_everything",
         "name": "Капля, поглотившая всё",
         "rules_insert_url": "https://guides.arkham.build/ru/scenarios/KUA_Kaplya_poglotivshaja_Pravila.pdf"
-    
     },
     {
         "campaign_guide_location": null,
         "code": "war_of_the_outer_gods",
         "name": "Война Внешних богов",
         "rules_insert_url": "https://guides.arkham.build/ru/scenarios/war_of_the_outer_gods_rules.pdf"
-    
     },
     {
         "campaign_guide_location": null,
         "code": "machinations_through_time",
         "name": "Махинации сквозь время",
         "rules_insert_url": "https://guides.arkham.build/ru/scenarios/Mahinacii_Rules.pdf"
-    
     },
     {
         "campaign_guide_location": null,
         "code": "fortune_and_folly",
         "name": "Фортуна и безрассудство",
         "rules_insert_url": "https://guides.arkham.build/ru/scenarios/kua_fortuna_pravila.pdf"
-    
     },
     {
         "campaign_guide_location": null,
         "code": "the_midwinter_gala",
         "name": "Йольский бал",
         "rules_insert_url": "https://guides.arkham.build/ru/scenarios/jolskij-rules.pdf"
-    
     },
     {
         "campaign_guide_location": null,
         "code": "the_blob_that_ate_everything_else",
         "name": "Капля, поглотившая всё остальное",
         "rules_insert_url": "https://guides.arkham.build/ru/scenarios/blob_else.pdf"
-    
     },
     {
         "campaign_guide_location": null,
         "code": "film_fatale",
         "name": "Роковые съёмки",
         "rules_insert_url": "https://guides.arkham.build/ru/scenarios/uzhas-arkhjema-kartochnaja-igra-rokovie-sjomki-rules.pdf"
-    
     },
     {
         "campaign_guide_location": null,
         "code": "read_or_die",
         "name": "Прочти или умри",
         "rules_insert_url": "https://guides.arkham.build/ru/scenarios/Read_or_Die_Rules_Insert_RU_2020.pdf"
-    
     },
     {
         "campaign_guide_location": null,
         "code": "all_or_nothing",
         "name": "Всё или ничего",
         "rules_insert_url": "https://guides.arkham.build/ru/scenarios/Vsyo_ili_nichego_pravila.pdf"
-    
     },
     {
         "campaign_guide_location": null,
         "code": "bad_blood",
         "name": "Кровная вражда",
         "rules_insert_url": "https://guides.arkham.build/ru/scenarios/Krovnaya_vrazdha_pravila.pdf"
-    
     },
     {
         "campaign_guide_location": null,
         "code": "by_the_book",
         "name": "По букве закона",
         "rules_insert_url": "https://guides.arkham.build/ru/scenarios/Po_bukve_zakona_pravila.pdf"
-    
     },
     {
         "campaign_guide_location": null,
         "code": "red_tide_rising",
         "name": "Алый прилив",
         "rules_insert_url": "https://guides.arkham.build/ru/scenarios/red_tide_rising.pdf"
-    
     },
     {
         "campaign_guide_location": null,
         "code": "laid_to_rest",
         "name": "Упокоение",
         "rules_insert_url": "https://guides.arkham.build/ru/scenarios/laid_to_rest.pdf"
-    
     },
     {
         "campaign_guide_location": null,
         "code": "relics_of_the_past",
         "name": "Реликвии прошлого",
         "rules_insert_url": "https://guides.arkham.build/ru/scenarios/relics_of_the_past.pdf"
-    
     },
     {
         "campaign_guide_location": null,
         "code": "enthralling_encore",
         "name": "Увлекательный бис",
         "rules_insert_url": "https://guides.arkham.build/ru/scenarios/enthralling_encore.pdf"
-    
     }
 ]

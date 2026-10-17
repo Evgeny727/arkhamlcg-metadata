@@ -859,8 +859,16 @@
                 "code": "disappearance_at_the_twilight_estate"
             },
             {
-                "code": "at_deaths_doorstep",
-                "cards": ["05078", "05079", "05080", "05081", "05082", "05083", "05084"]
+                "cards": [
+                    "05078",
+                    "05079",
+                    "05080",
+                    "05081",
+                    "05082",
+                    "05083",
+                    "05084"
+                ],
+                "code": "at_deaths_doorstep"
             },
             {
                 "code": "inexorable_fate"
@@ -4099,8 +4107,16 @@
                 "code": "return_to_disappearance_at_the_twilight_estate"
             },
             {
-                "code": "at_deaths_doorstep",
-                "cards": ["05078", "05079", "05080", "05081", "05082", "05083", "05084"]
+                "cards": [
+                    "05078",
+                    "05079",
+                    "05080",
+                    "05081",
+                    "05082",
+                    "05083",
+                    "05084"
+                ],
+                "code": "at_deaths_doorstep"
             },
             {
                 "code": "unspeakable_fate"
