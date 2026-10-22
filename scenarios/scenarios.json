@@ -4948,5 +4948,18 @@
         ],
         "name": "Enthralling Encore",
         "rules_insert_url": "https://guides.arkham.build/en/enthralling_encore_rules_insert.pdf"
+    },
+    {
+        "code": "traces_to_nowhere",
+        "cycle_code": "scenario_packs_ch2",
+        "encounter_sets": [
+            {
+                "code": "traces_to_nowhere"
+            },
+            {
+                "code": "dimensional_madness"
+            }
+        ],
+        "name": "Traces to Nowhere"
     }
 ]
